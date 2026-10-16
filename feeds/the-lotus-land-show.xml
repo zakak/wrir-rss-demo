@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>WRIR 97.3 FM - The Lotus Land Show</title>
+    <link>https://www.wrir.org</link>
+    <description>Richmond Independent Radio archive stream distribution feed for program: The Lotus Land Show.</description>
+    <language>en-US</language>
+    <item>
+      <title>The Lotus Land Show</title>
+      <link>https://www.wrir.org/show/the-lotus-land-show/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610141700.TheLotusLandShow.mp3"
+        length="172602347"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 14 Oct 2026 17:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Lotus Land Show</title>
+      <link>https://www.wrir.org/show/the-lotus-land-show/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610071700.TheLotusLandShow.mp3"
+        length="172604855"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 07 Oct 2026 17:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Lotus Land Show</title>
+      <link>https://www.wrir.org/show/the-lotus-land-show/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202609301700.TheLotusLandShow.mp3"
+        length="172609007"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 30 Sep 2026 17:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <itunes:category text="Music"/>
+    <itunes:image href="https://wrir.org"/>
+    <itunes:owner>
+      <itunes:name>WRIR Community Radio</itunes:name>
+      <itunes:email>info@wrir.org</itunes:email>
+    </itunes:owner>
+    <itunes:author>WRIR-LP 97.3 FM</itunes:author>
+    <itunes:summary>Richmond Independent Radio archive stream distribution feed for program: The Lotus Land Show.</itunes:summary>
+  </channel>
+</rss>

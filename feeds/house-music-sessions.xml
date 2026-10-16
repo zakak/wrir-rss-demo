@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>WRIR 97.3 FM - House Music Sessions</title>
+    <link>https://www.wrir.org</link>
+    <description>Richmond Independent Radio archive stream distribution feed for program: House Music Sessions.</description>
+    <language>en-US</language>
+    <item>
+      <title>House Music Sessions</title>
+      <link>https://www.wrir.org/show/house-music-sessions/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610102300.HouseMusicSessions.mp3"
+        length="172593799"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 23:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>House Music Sessions</title>
+      <link>https://www.wrir.org/show/house-music-sessions/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610032300.HouseMusicSessions.mp3"
+        length="172608865"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 2026 23:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <itunes:category text="Music"/>
+    <itunes:image href="https://wrir.org"/>
+    <itunes:owner>
+      <itunes:name>WRIR Community Radio</itunes:name>
+      <itunes:email>info@wrir.org</itunes:email>
+    </itunes:owner>
+    <itunes:author>WRIR-LP 97.3 FM</itunes:author>
+    <itunes:summary>Richmond Independent Radio archive stream distribution feed for program: House Music Sessions.</itunes:summary>
+  </channel>
+</rss>

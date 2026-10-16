@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>WRIR 97.3 FM - A Grain of Sand</title>
+    <link>https://www.wrir.org</link>
+    <description>Richmond Independent Radio archive stream distribution feed for program: A Grain of Sand.</description>
+    <language>en-US</language>
+    <item>
+      <title>A Grain of Sand</title>
+      <link>https://www.wrir.org/show/a-grain-of-sand/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610131230.AGrainofSand.mp3"
+        length="43169499"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 13 Oct 2026 12:30:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>A Grain of Sand</title>
+      <link>https://www.wrir.org/show/a-grain-of-sand/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610061230.AGrainofSand.mp3"
+        length="43187627"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2026 12:30:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <itunes:category text="Music"/>
+    <itunes:image href="https://wrir.org"/>
+    <itunes:owner>
+      <itunes:name>WRIR Community Radio</itunes:name>
+      <itunes:email>info@wrir.org</itunes:email>
+    </itunes:owner>
+    <itunes:author>WRIR-LP 97.3 FM</itunes:author>
+    <itunes:summary>Richmond Independent Radio archive stream distribution feed for program: A Grain of Sand.</itunes:summary>
+  </channel>
+</rss>

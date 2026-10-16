@@ -1,0 +1,2001 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>WRIR 97.3 FM - Main Archive Directory</title>
+    <link>https://www.wrir.org</link>
+    <description>Richmond Independent Radio archive stream distribution feed for program: Main Archive Directory.</description>
+    <language>en-US</language>
+    <item>
+      <title>The Young Professional / Mid-Atlantic Jams</title>
+      <link>https://www.wrir.org/show/the-young-professional-mid-atlantic-jams/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610151700.TheYoungProfessionalMidAtlanticJams.mp3"
+        length="172607537"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 15 Oct 2026 17:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Higher Consciousness</title>
+      <link>https://www.wrir.org/show/higher-consciousness/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610151500.HigherConsciousness.mp3"
+        length="172605047"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 15 Oct 2026 15:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Alternative Milestones</title>
+      <link>https://www.wrir.org/show/alternative-milestones/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610151300.AlternativeMilestones.mp3"
+        length="172582491"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 15 Oct 2026 13:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Women &amp;amp; Politics</title>
+      <link>https://www.wrir.org/show/women-and-politics/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610151200.WomenPolitics.mp3"
+        length="86345349"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Richmond Business Babes</title>
+      <link>https://www.wrir.org/show/richmond-biz-babes/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610151100.RichmondBusinessBabes.mp3"
+        length="86308803"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 15 Oct 2026 11:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Embrace Matters of Richmond</title>
+      <link>https://www.wrir.org/show/embracing-matters-of-richmond/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610151000.EmbraceMattersofRichmond.mp3"
+        length="86332923"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 15 Oct 2026 10:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Breakfast Blend w/ Galaxy Girl &amp;amp; Friends</title>
+      <link>https://www.wrir.org/show/breakfast-blend-w-galaxy-girl/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610150600.BreakfastBlendwGalaxyGirlFriends.mp3"
+        length="172617455"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Encore Music and Local Talk Shows</title>
+      <link>https://www.wrir.org/show/encore-music-and-local-talk-shows/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610150400.EncoreMusicandLocalTalkShows.mp3"
+        length="172581047"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 15 Oct 2026 04:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Church of the Ecstatic</title>
+      <link>https://www.wrir.org/show/the-church-of-the-ecstatic/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610142300.TheChurchoftheEcstatic.mp3"
+        length="172589477"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 14 Oct 2026 23:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Mercury Falls</title>
+      <link>https://www.wrir.org/show/mercury-falls/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610142100.MercuryFalls.mp3"
+        length="172602205"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 14 Oct 2026 21:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Midtown Swing</title>
+      <link>https://www.wrir.org/show/midtown-swing/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610141900.MidtownSwing.mp3"
+        length="172607819"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 14 Oct 2026 19:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Lotus Land Show</title>
+      <link>https://www.wrir.org/show/the-lotus-land-show/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610141700.TheLotusLandShow.mp3"
+        length="172602347"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 14 Oct 2026 17:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Dream Girl Radio / EXT SRC</title>
+      <link>https://www.wrir.org/show/dream-girl-radio-ext-src-01/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610141500.DreamGirlRadioEXTSRC.mp3"
+        length="172606379"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 14 Oct 2026 15:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Daily Courtship / Left Field with Duncan</title>
+      <link>https://www.wrir.org/show/daily-courtship-left-field-with-duncan/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610141300.DailyCourtshipLeftFieldwithDuncan.mp3"
+        length="172603707"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 14 Oct 2026 13:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>What Wakes Me Up/Moccasin Tracks</title>
+      <link>https://www.wrir.org/show/what-wakes-me-up/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610141200.WhatWakesMeUpMoccasinTracks.mp3"
+        length="86324133"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>How 2 Human/Rising Up with Sonali</title>
+      <link>https://www.wrir.org/show/how-2-human/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610141100.How2HumanRisingUpwithSonali.mp3"
+        length="86331123"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 14 Oct 2026 11:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Wednesday Breakfast Blend</title>
+      <link>https://www.wrir.org/show/wednesday-morning-breakfast-blend/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610140600.WednesdayBreakfastBlend.mp3"
+        length="172621883"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Encore Music and Local Talk Shows</title>
+      <link>https://www.wrir.org/show/encore-music-and-local-talk-shows/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610140400.EncoreMusicandLocalTalkShows.mp3"
+        length="172604915"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 14 Oct 2026 04:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>FREQUENCY</title>
+      <link>https://www.wrir.org/show/frequency/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610140100.FREQUENCY.mp3"
+        length="172606149"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 14 Oct 2026 01:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Dog Germs / PND (punk’s not dead)</title>
+      <link>https://www.wrir.org/show/dog-germs/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610132300.DogGermsPNDpunksnotdead.mp3"
+        length="128931289"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 13 Oct 2026 23:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Kaleidoscope Soul / Interstellar Elevator</title>
+      <link>https://www.wrir.org/show/kaleidoscopic-soul/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610132100.KaleidoscopeSoulInterstellarElevator.mp3"
+        length="172605263"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 13 Oct 2026 21:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Handful Of Brains</title>
+      <link>https://www.wrir.org/show/handful-of-brains/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610131900.HandfulOfBrains.mp3"
+        length="172600713"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 13 Oct 2026 19:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Wide Ear Folk</title>
+      <link>https://www.wrir.org/show/wideearfolk-lifeisamixtape/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610131700.WideEarFolk.mp3"
+        length="172607875"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 13 Oct 2026 17:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Sacred Grove (1st &amp;amp; 3rd) / Single Use (2nd &amp;amp; 4th)</title>
+      <link>https://www.wrir.org/show/sacredgrove-singleuse/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610131500.SacredGrove1st3rdSingleUse2nd4th.mp3"
+        length="172603803"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 13 Oct 2026 15:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Outer Focus (1st Tuesdays)</title>
+      <link>https://www.wrir.org/show/outerfocus/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610131300.OuterFocus1stTuesdays.mp3"
+        length="172603783"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 13 Oct 2026 13:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>A Grain of Sand</title>
+      <link>https://www.wrir.org/show/a-grain-of-sand/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610131230.AGrainofSand.mp3"
+        length="43169499"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 13 Oct 2026 12:30:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Mr. Dad’s Storytime</title>
+      <link>https://www.wrir.org/show/mr-dads-storytime/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610131100.MrDadsStorytime.mp3"
+        length="86332895"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 13 Oct 2026 11:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>With Good Reason</title>
+      <link>https://www.wrir.org/show/with-good-reason/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610130900.WithGoodReason.mp3"
+        length="86331475"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 13 Oct 2026 09:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Where The Bears Sing</title>
+      <link>https://www.wrir.org/show/where-the-bears-sing/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610130600.WhereTheBearsSing.mp3"
+        length="172582361"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Encore Music and Local Talk Shows</title>
+      <link>https://www.wrir.org/show/encore-music-and-local-talk-shows/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610130400.EncoreMusicandLocalTalkShows.mp3"
+        length="172603341"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 13 Oct 2026 04:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Metal Box</title>
+      <link>https://www.wrir.org/show/metal-box/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610130100.MetalBox.mp3"
+        length="172603311"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 13 Oct 2026 01:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Richmond Cryptoids</title>
+      <link>https://www.wrir.org/show/richmond-cryptoids/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610122300.RichmondCryptoids.mp3"
+        length="172588267"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 12 Oct 2026 23:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Man in the Gray Flannel Suit / Soul II Soul</title>
+      <link>https://www.wrir.org/show/flannelsuit-nighttime/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610122100.TheManintheGrayFlannelSuitSoulIISoul.mp3"
+        length="172605047"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 12 Oct 2026 21:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Edge of Americana / Time Again Radio</title>
+      <link>https://www.wrir.org/show/edgeofamericana-timeagainradio/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610121900.TheEdgeofAmericanaTimeAgainRadio.mp3"
+        length="172600975"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 12 Oct 2026 19:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>French Kiss / With Love</title>
+      <link>https://www.wrir.org/show/french-kiss/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610121700.FrenchKissWithLove.mp3"
+        length="172605155"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 12 Oct 2026 17:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Richmond Counterculture / Shockoe Sessions</title>
+      <link>https://www.wrir.org/show/richmond-counterculture/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610121500.RichmondCountercultureShockoeSessions.mp3"
+        length="172607639"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 12 Oct 2026 15:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Best in Blues</title>
+      <link>https://www.wrir.org/show/the-best-in-blues/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610121300.TheBestinBlues.mp3"
+        length="172604819"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 12 Oct 2026 13:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Biscuits ‘n’ Groovy w/ Bee Gee</title>
+      <link>https://www.wrir.org/show/biscuits-n-groovy-w-bee-gee/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610120600.BiscuitsnGroovywBeeGee.mp3"
+        length="172596543"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Dawn Chorus</title>
+      <link>https://www.wrir.org/show/dawn-chorus/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610120400.DawnChorus.mp3"
+        length="172606175"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 12 Oct 2026 04:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Encore Music and Local Talk Shows</title>
+      <link>https://www.wrir.org/show/encore-music-and-local-talk-shows/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610120300.EncoreMusicandLocalTalkShows.mp3"
+        length="86334443"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 12 Oct 2026 03:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Global A Go-Go</title>
+      <link>https://www.wrir.org/show/global-a-go-go/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610120100.GlobalAGoGo.mp3"
+        length="172580035"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 12 Oct 2026 01:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Just Cause / Double Dream</title>
+      <link>https://www.wrir.org/show/just-cause-double-dream/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610112300.JustCauseDoubleDream.mp3"
+        length="172597703"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 11 Oct 2026 23:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>House of SWÉ (1st &amp;amp; 3rd) / Otherworlds (2nd &amp;amp; 4th)</title>
+      <link>https://www.wrir.org/show/house-of-swe-otherworlds/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610112100.HouseofSWÉ1st3rdOtherworlds2nd4th.mp3"
+        length="52428800"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 11 Oct 2026 21:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>If Music Could Talk</title>
+      <link>https://www.wrir.org/show/if-music-could-talk/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610111900.IfMusicCouldTalk.mp3"
+        length="172609341"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 11 Oct 2026 19:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Motherland Influence</title>
+      <link>https://www.wrir.org/show/the-motherland-influence/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610111700.TheMotherlandInfluence.mp3"
+        length="172603869"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 11 Oct 2026 17:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Ambiance Congo / The Other Black Music</title>
+      <link>https://www.wrir.org/show/ambiance-congo-the-other-black-music/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610111500.AmbianceCongoTheOtherBlackMusic.mp3"
+        length="172601971"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 11 Oct 2026 15:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Stop the Madness Latino</title>
+      <link>https://www.wrir.org/show/stop-the-madness-latino/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610111300.StoptheMadnessLatino.mp3"
+        length="172603351"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 11 Oct 2026 13:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Sunday Morning Jazz Show</title>
+      <link>https://www.wrir.org/show/the-sunday-morning-jazz-show/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610110900.TheSundayMorningJazzShow.mp3"
+        length="345143955"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 11 Oct 2026 09:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Jagar Morning Show</title>
+      <link>https://www.wrir.org/show/jagar-morning-show/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610110600.TheJagarMorningShow.mp3"
+        length="258851659"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 11 Oct 2026 06:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Encore Music and Local Talk Shows</title>
+      <link>https://www.wrir.org/show/encore-music-and-local-talk-shows/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610110300.EncoreMusicandLocalTalkShows.mp3"
+        length="258877307"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 11 Oct 2026 03:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Hip-Hop for the Rest of Us</title>
+      <link>https://www.wrir.org/show/hip-hop-for-the-rest-of-us/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610110100.HipHopfortheRestofUs.mp3"
+        length="172605087"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 11 Oct 2026 01:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>House Music Sessions</title>
+      <link>https://www.wrir.org/show/house-music-sessions/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610102300.HouseMusicSessions.mp3"
+        length="172593799"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 23:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>FREQUENCY</title>
+      <link>https://www.wrir.org/show/frequency/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610102100.FREQUENCY.mp3"
+        length="172603579"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 21:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Panoramic / Club Unity</title>
+      <link>https://www.wrir.org/show/panoramic-clubunity/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610101900.PanoramicClubUnity.mp3"
+        length="172606063"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 19:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>River City Limits</title>
+      <link>https://www.wrir.org/show/river-city-limits/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610101700.RiverCityLimits.mp3"
+        length="172603539"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 17:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>End Of The Century</title>
+      <link>https://www.wrir.org/show/end-of-the-century/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610101500.EndOfTheCentury.mp3"
+        length="172603519"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 15:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Cause and Effect</title>
+      <link>https://www.wrir.org/show/cause-and-effect/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610101300.CauseandEffect.mp3"
+        length="172581111"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 13:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Paul’s Boutique / Alley Oop’s Nolde Oldies</title>
+      <link>https://www.wrir.org/show/pauls-boutique-noldeoldies/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610101100.PaulsBoutiqueAlleyOopsNoldeOldies.mp3"
+        length="172614759"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 11:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The British Breakfast</title>
+      <link>https://www.wrir.org/show/the-british-breakfast/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610100900.TheBritishBreakfast.mp3"
+        length="172604939"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 09:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Clean House / Half Awake</title>
+      <link>https://www.wrir.org/show/clean-house-half-awake/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610100700.CleanHouseHalfAwake.mp3"
+        length="172573949"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 07:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Encore Music and Local Talk Shows</title>
+      <link>https://www.wrir.org/show/encore-music-and-local-talk-shows/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610100600.EncoreMusicandLocalTalkShows.mp3"
+        length="86352423"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 06:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Live from the Audience</title>
+      <link>https://www.wrir.org/show/live-from-the-audience/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610100300.LivefromtheAudience.mp3"
+        length="258848875"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 03:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Encore Music and Local Talk Shows</title>
+      <link>https://www.wrir.org/show/encore-music-and-local-talk-shows/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610100100.EncoreMusicandLocalTalkShows.mp3"
+        length="172607637"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 01:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Lunar Orbit / Twilight Dispatch</title>
+      <link>https://www.wrir.org/show/the-lunar-orbit-twilight-dispatch/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610092300.TheLunarOrbitTwilightDispatch.mp3"
+        length="172596679"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 09 Oct 2026 23:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Guitar Inferno</title>
+      <link>https://www.wrir.org/show/guitar-inferno/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610092100.GuitarInferno.mp3"
+        length="172605059"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 09 Oct 2026 21:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Deutscher Jam</title>
+      <link>https://www.wrir.org/show/deutscher-jam/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610091900.DeutscherJam.mp3"
+        length="172607543"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 09 Oct 2026 19:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Friday Clock Out / Commonwealth of Notions</title>
+      <link>https://www.wrir.org/show/friday-clock-out-commonwealth-of-notions/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610091700.FridayClockOutCommonwealthofNotions.mp3"
+        length="172603471"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 09 Oct 2026 17:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>POP Goes The World! / What the Fontaine?!</title>
+      <link>https://www.wrir.org/show/pop-goes-the-world/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610091500.POPGoesTheWorldWhattheFontaine.mp3"
+        length="172603451"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 09 Oct 2026 15:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Quality Time</title>
+      <link>https://www.wrir.org/show/quality-time/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610091300.QualityTime.mp3"
+        length="172578391"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 09 Oct 2026 13:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>SIFTER for the Ear</title>
+      <link>https://www.wrir.org/show/sifter-for-the-ear/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610091130.SIFTERfortheEar.mp3"
+        length="43198457"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 09 Oct 2026 11:30:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Bumps N Banter</title>
+      <link>https://www.wrir.org/show/bumps-n-banter/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610091100.BumpsNBanter.mp3"
+        length="43196039"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 09 Oct 2026 11:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>This Way Out</title>
+      <link>https://www.wrir.org/show/this-way-out/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610091030.ThisWayOut.mp3"
+        length="43197047"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 09 Oct 2026 10:30:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>WRIR Presents</title>
+      <link>https://www.wrir.org/show/wrir-presents/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610091000.WRIRPresents.mp3"
+        length="43195881"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 09 Oct 2026 10:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>WRIR Presents</title>
+      <link>https://www.wrir.org/show/wrir-presents/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610090900.WRIRPresents.mp3"
+        length="86331419"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 09 Oct 2026 09:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Life is a Mixtape / MIDI Mornings</title>
+      <link>https://www.wrir.org/show/life-is-a-mixtape-midi-mornings/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610090600.LifeisaMixtapeMIDIMornings.mp3"
+        length="172579653"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Unicorn Power</title>
+      <link>https://www.wrir.org/show/unicorn-power/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610090300.UnicornPower.mp3"
+        length="258878275"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 09 Oct 2026 03:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Neighborhood Wide Web</title>
+      <link>https://www.wrir.org/show/neighborhood-wide-web/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610090100.NeighborhoodWideWeb.mp3"
+        length="172600751"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 09 Oct 2026 01:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Mix Room / Catch a Groove</title>
+      <link>https://www.wrir.org/show/the-mix-room-catch-a-groove/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610082300.TheMixRoomCatchaGroove.mp3"
+        length="172598045"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 08 Oct 2026 23:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Sunrise Ocean Bender (1st, 3rd)/ Altered Circuitry: ReWired (2nd,4th) / Various (5th)</title>
+      <link>https://www.wrir.org/show/sob-happy-house-altered-circuitry-rewired/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610082100.SunriseOceanBender1st3rdAlteredCircuitryReWired2nd4thVarious5th.mp3"
+        length="172600643"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 08 Oct 2026 21:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Quantum Live Radio / Whatever I Want</title>
+      <link>https://www.wrir.org/show/quantum-live-radio-whatever-i-want/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610081900.QuantumLiveRadioWhateverIWant.mp3"
+        length="172606553"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 08 Oct 2026 19:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Young Professional / Mid-Atlantic Jams</title>
+      <link>https://www.wrir.org/show/the-young-professional-mid-atlantic-jams/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610081700.TheYoungProfessionalMidAtlanticJams.mp3"
+        length="172605133"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 08 Oct 2026 17:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Higher Consciousness</title>
+      <link>https://www.wrir.org/show/higher-consciousness/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610081500.HigherConsciousness.mp3"
+        length="172605113"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 08 Oct 2026 15:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Alternative Milestones</title>
+      <link>https://www.wrir.org/show/alternative-milestones/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610081300.AlternativeMilestones.mp3"
+        length="172605093"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 08 Oct 2026 13:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Women &amp;amp; Politics</title>
+      <link>https://www.wrir.org/show/women-and-politics/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610081200.WomenPolitics.mp3"
+        length="86317085"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Richmond Business Babes</title>
+      <link>https://www.wrir.org/show/richmond-biz-babes/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610081100.RichmondBusinessBabes.mp3"
+        length="86334353"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 08 Oct 2026 11:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Embrace Matters of Richmond</title>
+      <link>https://www.wrir.org/show/embracing-matters-of-richmond/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610081000.EmbraceMattersofRichmond.mp3"
+        length="86332943"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 08 Oct 2026 10:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Breakfast Blend w/ Galaxy Girl &amp;amp; Friends</title>
+      <link>https://www.wrir.org/show/breakfast-blend-w-galaxy-girl/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610080600.BreakfastBlendwGalaxyGirlFriends.mp3"
+        length="172599469"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Encore Music and Local Talk Shows</title>
+      <link>https://www.wrir.org/show/encore-music-and-local-talk-shows/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610080400.EncoreMusicandLocalTalkShows.mp3"
+        length="129469267"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Church of the Ecstatic</title>
+      <link>https://www.wrir.org/show/the-church-of-the-ecstatic/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610072300.TheChurchoftheEcstatic.mp3"
+        length="160088669"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 07 Oct 2026 23:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Mercury Falls</title>
+      <link>https://www.wrir.org/show/mercury-falls/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610072100.MercuryFalls.mp3"
+        length="172607843"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 07 Oct 2026 21:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Midtown Swing</title>
+      <link>https://www.wrir.org/show/midtown-swing/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610071900.MidtownSwing.mp3"
+        length="172603623"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 07 Oct 2026 19:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Lotus Land Show</title>
+      <link>https://www.wrir.org/show/the-lotus-land-show/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610071700.TheLotusLandShow.mp3"
+        length="172604855"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 07 Oct 2026 17:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Dream Girl Radio / EXT SRC</title>
+      <link>https://www.wrir.org/show/dream-girl-radio-ext-src-01/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610071500.DreamGirlRadioEXTSRC.mp3"
+        length="172604687"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 07 Oct 2026 15:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Daily Courtship / Left Field with Duncan</title>
+      <link>https://www.wrir.org/show/daily-courtship-left-field-with-duncan/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610071300.DailyCourtshipLeftFieldwithDuncan.mp3"
+        length="172575871"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 07 Oct 2026 13:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>What Wakes Me Up/Moccasin Tracks</title>
+      <link>https://www.wrir.org/show/what-wakes-me-up/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610071200.WhatWakesMeUpMoccasinTracks.mp3"
+        length="86349815"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>How 2 Human/Rising Up with Sonali</title>
+      <link>https://www.wrir.org/show/how-2-human/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610071100.How2HumanRisingUpwithSonali.mp3"
+        length="86335509"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 07 Oct 2026 11:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Wednesday Breakfast Blend</title>
+      <link>https://www.wrir.org/show/wednesday-morning-breakfast-blend/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610070600.WednesdayBreakfastBlend.mp3"
+        length="172612235"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Encore Music and Local Talk Shows</title>
+      <link>https://www.wrir.org/show/encore-music-and-local-talk-shows/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610070400.EncoreMusicandLocalTalkShows.mp3"
+        length="172603815"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 07 Oct 2026 04:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>FREQUENCY</title>
+      <link>https://www.wrir.org/show/frequency/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610070100.FREQUENCY.mp3"
+        length="172578119"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 07 Oct 2026 01:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Dog Germs / PND (punk’s not dead)</title>
+      <link>https://www.wrir.org/show/dog-germs/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610062300.DogGermsPNDpunksnotdead.mp3"
+        length="172617845"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2026 23:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Kaleidoscope Soul / Interstellar Elevator</title>
+      <link>https://www.wrir.org/show/kaleidoscopic-soul/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610062100.KaleidoscopeSoulInterstellarElevator.mp3"
+        length="172602095"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2026 21:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Handful Of Brains</title>
+      <link>https://www.wrir.org/show/handful-of-brains/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610061900.HandfulOfBrains.mp3"
+        length="172604875"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2026 19:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Wide Ear Folk</title>
+      <link>https://www.wrir.org/show/wideearfolk-lifeisamixtape/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610061700.WideEarFolk.mp3"
+        length="172577163"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2026 17:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Sacred Grove (1st &amp;amp; 3rd) / Single Use (2nd &amp;amp; 4th)</title>
+      <link>https://www.wrir.org/show/sacredgrove-singleuse/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610061500.SacredGrove1st3rdSingleUse2nd4th.mp3"
+        length="172613429"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2026 15:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Outer Focus (1st Tuesdays)</title>
+      <link>https://www.wrir.org/show/outerfocus/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610061300.OuterFocus1stTuesdays.mp3"
+        length="172605009"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2026 13:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>A Grain of Sand</title>
+      <link>https://www.wrir.org/show/a-grain-of-sand/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610061230.AGrainofSand.mp3"
+        length="43187627"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2026 12:30:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Mr. Dad’s Storytime</title>
+      <link>https://www.wrir.org/show/mr-dads-storytime/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610061100.MrDadsStorytime.mp3"
+        length="86332903"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2026 11:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>With Good Reason</title>
+      <link>https://www.wrir.org/show/with-good-reason/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610060900.WithGoodReason.mp3"
+        length="86333987"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2026 09:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Where The Bears Sing</title>
+      <link>https://www.wrir.org/show/where-the-bears-sing/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610060600.WhereTheBearsSing.mp3"
+        length="172585499"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Encore Music and Local Talk Shows</title>
+      <link>https://www.wrir.org/show/encore-music-and-local-talk-shows/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610060400.EncoreMusicandLocalTalkShows.mp3"
+        length="172603679"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2026 04:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Metal Box</title>
+      <link>https://www.wrir.org/show/metal-box/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610060100.MetalBox.mp3"
+        length="172602101"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2026 01:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Richmond Cryptoids</title>
+      <link>https://www.wrir.org/show/richmond-cryptoids/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610052300.RichmondCryptoids.mp3"
+        length="172606611"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 05 Oct 2026 23:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Man in the Gray Flannel Suit / Soul II Soul</title>
+      <link>https://www.wrir.org/show/flannelsuit-nighttime/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610052100.TheManintheGrayFlannelSuitSoulIISoul.mp3"
+        length="172582655"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 05 Oct 2026 21:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Edge of Americana / Time Again Radio</title>
+      <link>https://www.wrir.org/show/edgeofamericana-timeagainradio/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610051900.TheEdgeofAmericanaTimeAgainRadio.mp3"
+        length="172604887"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 05 Oct 2026 19:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>French Kiss / With Love</title>
+      <link>https://www.wrir.org/show/french-kiss/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610051700.FrenchKissWithLove.mp3"
+        length="172607849"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 05 Oct 2026 17:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Richmond Counterculture / Shockoe Sessions</title>
+      <link>https://www.wrir.org/show/richmond-counterculture/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610051500.RichmondCountercultureShockoeSessions.mp3"
+        length="172604881"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 05 Oct 2026 15:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Best in Blues</title>
+      <link>https://www.wrir.org/show/the-best-in-blues/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610051300.TheBestinBlues.mp3"
+        length="172579821"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 05 Oct 2026 13:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Biscuits ‘n’ Groovy w/ Bee Gee</title>
+      <link>https://www.wrir.org/show/biscuits-n-groovy-w-bee-gee/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610050600.BiscuitsnGroovywBeeGee.mp3"
+        length="172604871"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Dawn Chorus</title>
+      <link>https://www.wrir.org/show/dawn-chorus/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610050400.DawnChorus.mp3"
+        length="172581063"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 05 Oct 2026 04:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Encore Music and Local Talk Shows</title>
+      <link>https://www.wrir.org/show/encore-music-and-local-talk-shows/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610050300.EncoreMusicandLocalTalkShows.mp3"
+        length="86327349"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 05 Oct 2026 03:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Global A Go-Go</title>
+      <link>https://www.wrir.org/show/global-a-go-go/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610050100.GlobalAGoGo.mp3"
+        length="172607963"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 05 Oct 2026 01:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Just Cause / Double Dream</title>
+      <link>https://www.wrir.org/show/just-cause-double-dream/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610042300.JustCauseDoubleDream.mp3"
+        length="172586989"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 04 Oct 2026 23:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>House of SWÉ (1st &amp;amp; 3rd) / Otherworlds (2nd &amp;amp; 4th)</title>
+      <link>https://www.wrir.org/show/house-of-swe-otherworlds/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610042100.HouseofSWÉ1st3rdOtherworlds2nd4th.mp3"
+        length="52428800"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 04 Oct 2026 21:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>If Music Could Talk</title>
+      <link>https://www.wrir.org/show/if-music-could-talk/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610041900.IfMusicCouldTalk.mp3"
+        length="172607835"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 04 Oct 2026 19:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Motherland Influence</title>
+      <link>https://www.wrir.org/show/the-motherland-influence/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610041700.TheMotherlandInfluence.mp3"
+        length="172601885"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 04 Oct 2026 17:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Ambiance Congo / The Other Black Music</title>
+      <link>https://www.wrir.org/show/ambiance-congo-the-other-black-music/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610041500.AmbianceCongoTheOtherBlackMusic.mp3"
+        length="172605143"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 04 Oct 2026 15:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Stop the Madness Latino</title>
+      <link>https://www.wrir.org/show/stop-the-madness-latino/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610041300.StoptheMadnessLatino.mp3"
+        length="172579935"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 04 Oct 2026 13:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Sunday Morning Jazz Show</title>
+      <link>https://www.wrir.org/show/the-sunday-morning-jazz-show/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610040900.TheSundayMorningJazzShow.mp3"
+        length="345142461"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 04 Oct 2026 09:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Jagar Morning Show</title>
+      <link>https://www.wrir.org/show/jagar-morning-show/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610040600.TheJagarMorningShow.mp3"
+        length="258870197"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 04 Oct 2026 06:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Encore Music and Local Talk Shows</title>
+      <link>https://www.wrir.org/show/encore-music-and-local-talk-shows/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610040300.EncoreMusicandLocalTalkShows.mp3"
+        length="258878749"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 04 Oct 2026 03:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Hip-Hop for the Rest of Us</title>
+      <link>https://www.wrir.org/show/hip-hop-for-the-rest-of-us/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610040100.HipHopfortheRestofUs.mp3"
+        length="172600599"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 04 Oct 2026 01:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>House Music Sessions</title>
+      <link>https://www.wrir.org/show/house-music-sessions/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610032300.HouseMusicSessions.mp3"
+        length="172608865"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 2026 23:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>FREQUENCY</title>
+      <link>https://www.wrir.org/show/frequency/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610032100.FREQUENCY.mp3"
+        length="172576771"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 2026 21:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Panoramic / Club Unity</title>
+      <link>https://www.wrir.org/show/panoramic-clubunity/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610031900.PanoramicClubUnity.mp3"
+        length="172606333"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 2026 19:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>River City Limits</title>
+      <link>https://www.wrir.org/show/river-city-limits/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610031700.RiverCityLimits.mp3"
+        length="172606643"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 2026 17:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>End Of The Century</title>
+      <link>https://www.wrir.org/show/end-of-the-century/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610031500.EndOfTheCentury.mp3"
+        length="172606475"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 2026 15:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Cause and Effect</title>
+      <link>https://www.wrir.org/show/cause-and-effect/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610031300.CauseandEffect.mp3"
+        length="172605055"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 2026 13:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Paul’s Boutique / Alley Oop’s Nolde Oldies</title>
+      <link>https://www.wrir.org/show/pauls-boutique-noldeoldies/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610031100.PaulsBoutiqueAlleyOopsNoldeOldies.mp3"
+        length="172598149"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 2026 11:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The British Breakfast</title>
+      <link>https://www.wrir.org/show/the-british-breakfast/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610030900.TheBritishBreakfast.mp3"
+        length="172603729"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 2026 09:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Clean House / Half Awake</title>
+      <link>https://www.wrir.org/show/clean-house-half-awake/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610030700.CleanHouseHalfAwake.mp3"
+        length="172581321"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 2026 07:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Encore Music and Local Talk Shows</title>
+      <link>https://www.wrir.org/show/encore-music-and-local-talk-shows/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610030600.EncoreMusicandLocalTalkShows.mp3"
+        length="86342301"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 2026 06:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Live from the Audience</title>
+      <link>https://www.wrir.org/show/live-from-the-audience/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610030300.LivefromtheAudience.mp3"
+        length="248683297"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 2026 03:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Encore Music and Local Talk Shows</title>
+      <link>https://www.wrir.org/show/encore-music-and-local-talk-shows/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610030100.EncoreMusicandLocalTalkShows.mp3"
+        length="172602171"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 03 Oct 2026 01:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Lunar Orbit / Twilight Dispatch</title>
+      <link>https://www.wrir.org/show/the-lunar-orbit-twilight-dispatch/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610022300.TheLunarOrbitTwilightDispatch.mp3"
+        length="172597917"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 02 Oct 2026 23:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Guitar Inferno</title>
+      <link>https://www.wrir.org/show/guitar-inferno/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610022100.GuitarInferno.mp3"
+        length="172604897"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 02 Oct 2026 21:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Deutscher Jam</title>
+      <link>https://www.wrir.org/show/deutscher-jam/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610021900.DeutscherJam.mp3"
+        length="172579837"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 02 Oct 2026 19:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Friday Clock Out / Commonwealth of Notions</title>
+      <link>https://www.wrir.org/show/friday-clock-out-commonwealth-of-notions/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610021700.FridayClockOutCommonwealthofNotions.mp3"
+        length="172604869"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 02 Oct 2026 17:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>POP Goes The World! / What the Fontaine?!</title>
+      <link>https://www.wrir.org/show/pop-goes-the-world/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610021500.POPGoesTheWorldWhattheFontaine.mp3"
+        length="172602197"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 02 Oct 2026 15:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Quality Time</title>
+      <link>https://www.wrir.org/show/quality-time/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610021300.QualityTime.mp3"
+        length="172600447"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 02 Oct 2026 13:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>SIFTER for the Ear</title>
+      <link>https://www.wrir.org/show/sifter-for-the-ear/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610021130.SIFTERfortheEar.mp3"
+        length="43200333"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 02 Oct 2026 11:30:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Bumps N Banter</title>
+      <link>https://www.wrir.org/show/bumps-n-banter/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610021100.BumpsNBanter.mp3"
+        length="43197619"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 02 Oct 2026 11:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>This Way Out</title>
+      <link>https://www.wrir.org/show/this-way-out/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610021030.ThisWayOut.mp3"
+        length="43193323"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 02 Oct 2026 10:30:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>WRIR Presents</title>
+      <link>https://www.wrir.org/show/wrir-presents/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610021000.WRIRPresents.mp3"
+        length="43193375"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 02 Oct 2026 10:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>WRIR Presents</title>
+      <link>https://www.wrir.org/show/wrir-presents/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610020900.WRIRPresents.mp3"
+        length="86332669"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 02 Oct 2026 09:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Life is a Mixtape / MIDI Mornings</title>
+      <link>https://www.wrir.org/show/life-is-a-mixtape-midi-mornings/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610020600.LifeisaMixtapeMIDIMornings.mp3"
+        length="172601891"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Unicorn Power</title>
+      <link>https://www.wrir.org/show/unicorn-power/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610020300.UnicornPower.mp3"
+        length="234024505"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 02 Oct 2026 03:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Neighborhood Wide Web</title>
+      <link>https://www.wrir.org/show/neighborhood-wide-web/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610020100.NeighborhoodWideWeb.mp3"
+        length="172578645"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 02 Oct 2026 01:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Mix Room / Catch a Groove</title>
+      <link>https://www.wrir.org/show/the-mix-room-catch-a-groove/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610012300.TheMixRoomCatchaGroove.mp3"
+        length="172607729"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 01 Oct 2026 23:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Sunrise Ocean Bender (1st, 3rd)/ Altered Circuitry: ReWired (2nd,4th) / Various (5th)</title>
+      <link>https://www.wrir.org/show/sob-happy-house-altered-circuitry-rewired/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610012100.SunriseOceanBender1st3rdAlteredCircuitryReWired2nd4thVarious5th.mp3"
+        length="172603509"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 01 Oct 2026 21:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Quantum Live Radio / Whatever I Want</title>
+      <link>https://www.wrir.org/show/quantum-live-radio-whatever-i-want/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610011900.QuantumLiveRadioWhateverIWant.mp3"
+        length="172606619"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 01 Oct 2026 19:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Young Professional / Mid-Atlantic Jams</title>
+      <link>https://www.wrir.org/show/the-young-professional-mid-atlantic-jams/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610011700.TheYoungProfessionalMidAtlanticJams.mp3"
+        length="167542125"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 01 Oct 2026 17:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Higher Consciousness</title>
+      <link>https://www.wrir.org/show/higher-consciousness/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610011500.HigherConsciousness.mp3"
+        length="172581171"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 01 Oct 2026 15:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Alternative Milestones</title>
+      <link>https://www.wrir.org/show/alternative-milestones/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610011300.AlternativeMilestones.mp3"
+        length="172602299"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 01 Oct 2026 13:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Women &amp;amp; Politics</title>
+      <link>https://www.wrir.org/show/women-and-politics/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610011200.WomenPolitics.mp3"
+        length="86344157"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 01 Oct 2026 12:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Richmond Business Babes</title>
+      <link>https://www.wrir.org/show/richmond-biz-babes/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610011100.RichmondBusinessBabes.mp3"
+        length="86335451"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Embrace Matters of Richmond</title>
+      <link>https://www.wrir.org/show/embracing-matters-of-richmond/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610011000.EmbraceMattersofRichmond.mp3"
+        length="86332641"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 01 Oct 2026 10:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Breakfast Blend w/ Galaxy Girl &amp;amp; Friends</title>
+      <link>https://www.wrir.org/show/breakfast-blend-w-galaxy-girl/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610010600.BreakfastBlendwGalaxyGirlFriends.mp3"
+        length="172620463"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 01 Oct 2026 06:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Encore Music and Local Talk Shows</title>
+      <link>https://www.wrir.org/show/encore-music-and-local-talk-shows/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610010400.EncoreMusicandLocalTalkShows.mp3"
+        length="172578603"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 01 Oct 2026 04:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Church of the Ecstatic</title>
+      <link>https://www.wrir.org/show/the-church-of-the-ecstatic/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202609302300.TheChurchoftheEcstatic.mp3"
+        length="172613439"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 30 Sep 2026 23:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Mercury Falls</title>
+      <link>https://www.wrir.org/show/mercury-falls/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202609302100.MercuryFalls.mp3"
+        length="172600967"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 30 Sep 2026 21:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Midtown Swing</title>
+      <link>https://www.wrir.org/show/midtown-swing/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202609301900.MidtownSwing.mp3"
+        length="86334061"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 30 Sep 2026 19:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Lotus Land Show</title>
+      <link>https://www.wrir.org/show/the-lotus-land-show/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202609301700.TheLotusLandShow.mp3"
+        length="172609007"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 30 Sep 2026 17:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Dream Girl Radio / EXT SRC</title>
+      <link>https://www.wrir.org/show/dream-girl-radio-ext-src-01/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202609301500.DreamGirlRadioEXTSRC.mp3"
+        length="172606517"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 30 Sep 2026 15:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Daily Courtship / Left Field with Duncan</title>
+      <link>https://www.wrir.org/show/daily-courtship-left-field-with-duncan/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202609301300.DailyCourtshipLeftFieldwithDuncan.mp3"
+        length="133127071"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 30 Sep 2026 13:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>What Wakes Me Up/Moccasin Tracks</title>
+      <link>https://www.wrir.org/show/what-wakes-me-up/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202609301200.WhatWakesMeUpMoccasinTracks.mp3"
+        length="86302263"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 30 Sep 2026 12:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>How 2 Human/Rising Up with Sonali</title>
+      <link>https://www.wrir.org/show/how-2-human/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202609301100.How2HumanRisingUpwithSonali.mp3"
+        length="86339791"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 30 Sep 2026 11:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Wednesday Breakfast Blend</title>
+      <link>https://www.wrir.org/show/wednesday-morning-breakfast-blend/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202609300600.WednesdayBreakfastBlend.mp3"
+        length="172591021"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Encore Music and Local Talk Shows</title>
+      <link>https://www.wrir.org/show/encore-music-and-local-talk-shows/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202609300400.EncoreMusicandLocalTalkShows.mp3"
+        length="172600471"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 30 Sep 2026 04:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>FREQUENCY</title>
+      <link>https://www.wrir.org/show/frequency/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202609300100.FREQUENCY.mp3"
+        length="172603275"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 30 Sep 2026 01:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Dog Germs / PND (punk’s not dead)</title>
+      <link>https://www.wrir.org/show/dog-germs/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202609292300.DogGermsPNDpunksnotdead.mp3"
+        length="172593865"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 29 Sep 2026 23:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <itunes:category text="Music"/>
+    <itunes:image href="https://wrir.org"/>
+    <itunes:owner>
+      <itunes:name>WRIR Community Radio</itunes:name>
+      <itunes:email>info@wrir.org</itunes:email>
+    </itunes:owner>
+    <itunes:author>WRIR-LP 97.3 FM</itunes:author>
+    <itunes:summary>Richmond Independent Radio archive stream distribution feed for program: Main Archive Directory.</itunes:summary>
+  </channel>
+</rss>
