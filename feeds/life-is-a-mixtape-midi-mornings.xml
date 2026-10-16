@@ -13,6 +13,17 @@
       <title>Life is a Mixtape / MIDI Mornings</title>
       <link>https://www.wrir.org/show/life-is-a-mixtape-midi-mornings/</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610160600.LifeisaMixtapeMIDIMornings.mp3"
+        length="172605083"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 -0400</pubDate>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Life is a Mixtape / MIDI Mornings</title>
+      <link>https://www.wrir.org/show/life-is-a-mixtape-midi-mornings/</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610090600.LifeisaMixtapeMIDIMornings.mp3"
         length="172579653"
         type="audio/mpeg"/>

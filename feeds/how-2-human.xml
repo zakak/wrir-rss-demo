@@ -31,17 +31,6 @@
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
-    <item>
-      <title>How 2 Human/Rising Up with Sonali</title>
-      <link>https://www.wrir.org/show/how-2-human/</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202609301100.How2HumanRisingUpwithSonali.mp3"
-        length="86339791"
-        type="audio/mpeg"/>
-      <pubDate>Wed, 30 Sep 2026 11:00:00 -0400</pubDate>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-    </item>
     <itunes:category text="Music"/>
     <itunes:image href="https://wrir.org"/>
     <itunes:owner>

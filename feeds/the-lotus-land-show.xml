@@ -31,17 +31,6 @@
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
-    <item>
-      <title>The Lotus Land Show</title>
-      <link>https://www.wrir.org/show/the-lotus-land-show/</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202609301700.TheLotusLandShow.mp3"
-        length="172609007"
-        type="audio/mpeg"/>
-      <pubDate>Wed, 30 Sep 2026 17:00:00 -0400</pubDate>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-    </item>
     <itunes:category text="Music"/>
     <itunes:image href="https://wrir.org"/>
     <itunes:owner>
