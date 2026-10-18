@@ -11,23 +11,25 @@
     <language>en-US</language>
     <item>
       <title>SIFTER for the Ear</title>
-      <link>https://www.wrir.org/show/sifter-for-the-ear/</link>
+      <link>https://vault.wrir.org/shows/202610161130.SIFTERfortheEar.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610091130.SIFTERfortheEar.mp3"
-        length="43198457"
+      <enclosure url="https://vault.wrir.org/shows/202610161130.SIFTERfortheEar.mp3"
+        length="43200121"
         type="audio/mpeg"/>
-      <pubDate>Fri, 09 Oct 2026 11:30:00 -0400</pubDate>
+      <pubDate>Fri, 16 Oct 2026 11:30:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/sifter-for-the-ear/202610161130</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>SIFTER for the Ear</title>
-      <link>https://www.wrir.org/show/sifter-for-the-ear/</link>
+      <link>https://vault.wrir.org/shows/202610091130.SIFTERfortheEar.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610021130.SIFTERfortheEar.mp3"
-        length="43200333"
+      <enclosure url="https://vault.wrir.org/shows/202610091130.SIFTERfortheEar.mp3"
+        length="43198457"
         type="audio/mpeg"/>
-      <pubDate>Fri, 02 Oct 2026 11:30:00 -0400</pubDate>
+      <pubDate>Fri, 09 Oct 2026 11:30:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/sifter-for-the-ear/202610091130</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

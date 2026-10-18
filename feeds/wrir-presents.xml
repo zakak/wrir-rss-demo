@@ -11,45 +11,49 @@
     <language>en-US</language>
     <item>
       <title>WRIR Presents</title>
-      <link>https://www.wrir.org/show/wrir-presents/</link>
+      <link>https://vault.wrir.org/shows/202610161000.WRIRPresents.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610161000.WRIRPresents.mp3"
+        length="43200197"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 16 Oct 2026 10:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/wrir-presents/202610161000</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>WRIR Presents</title>
+      <link>https://vault.wrir.org/shows/202610160900.WRIRPresents.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610160900.WRIRPresents.mp3"
+        length="86331057"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 16 Oct 2026 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/wrir-presents/202610160900</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>WRIR Presents</title>
+      <link>https://vault.wrir.org/shows/202610091000.WRIRPresents.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610091000.WRIRPresents.mp3"
         length="43195881"
         type="audio/mpeg"/>
       <pubDate>Fri, 09 Oct 2026 10:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/wrir-presents/202610091000</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>WRIR Presents</title>
-      <link>https://www.wrir.org/show/wrir-presents/</link>
+      <link>https://vault.wrir.org/shows/202610090900.WRIRPresents.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610090900.WRIRPresents.mp3"
         length="86331419"
         type="audio/mpeg"/>
       <pubDate>Fri, 09 Oct 2026 09:00:00 -0400</pubDate>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-    </item>
-    <item>
-      <title>WRIR Presents</title>
-      <link>https://www.wrir.org/show/wrir-presents/</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610021000.WRIRPresents.mp3"
-        length="43193375"
-        type="audio/mpeg"/>
-      <pubDate>Fri, 02 Oct 2026 10:00:00 -0400</pubDate>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-    </item>
-    <item>
-      <title>WRIR Presents</title>
-      <link>https://www.wrir.org/show/wrir-presents/</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610020900.WRIRPresents.mp3"
-        length="86332669"
-        type="audio/mpeg"/>
-      <pubDate>Fri, 02 Oct 2026 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/wrir-presents/202610090900</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

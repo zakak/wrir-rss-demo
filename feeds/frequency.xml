@@ -11,45 +11,61 @@
     <language>en-US</language>
     <item>
       <title>FREQUENCY</title>
-      <link>https://www.wrir.org/show/frequency/</link>
+      <link>https://vault.wrir.org/shows/202610172100.FREQUENCY.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610172100.FREQUENCY.mp3"
+        length="172607827"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 17 Oct 2026 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/frequency/202610172100</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>FREQUENCY</title>
+      <link>https://vault.wrir.org/shows/202610140100.FREQUENCY.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610140100.FREQUENCY.mp3"
         length="172606149"
         type="audio/mpeg"/>
       <pubDate>Wed, 14 Oct 2026 01:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/frequency/202610140100</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>FREQUENCY</title>
-      <link>https://www.wrir.org/show/frequency/</link>
+      <link>https://vault.wrir.org/shows/202610102100.FREQUENCY.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610102100.FREQUENCY.mp3"
         length="172603579"
         type="audio/mpeg"/>
       <pubDate>Sat, 10 Oct 2026 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/frequency/202610102100</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>FREQUENCY</title>
-      <link>https://www.wrir.org/show/frequency/</link>
+      <link>https://vault.wrir.org/shows/202610070100.FREQUENCY.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610070100.FREQUENCY.mp3"
         length="172578119"
         type="audio/mpeg"/>
       <pubDate>Wed, 07 Oct 2026 01:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/frequency/202610070100</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>FREQUENCY</title>
-      <link>https://www.wrir.org/show/frequency/</link>
+      <link>https://vault.wrir.org/shows/202610032100.FREQUENCY.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610032100.FREQUENCY.mp3"
         length="172576771"
         type="audio/mpeg"/>
       <pubDate>Sat, 03 Oct 2026 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/frequency/202610032100</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

@@ -11,23 +11,37 @@
     <language>en-US</language>
     <item>
       <title>House Music Sessions</title>
-      <link>https://www.wrir.org/show/house-music-sessions/</link>
+      <link>https://vault.wrir.org/shows/202610172300.HouseMusicSessions.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610102300.HouseMusicSessions.mp3"
-        length="172593799"
+      <enclosure url="https://vault.wrir.org/shows/202610172300.HouseMusicSessions.mp3"
+        length="172578265"
         type="audio/mpeg"/>
-      <pubDate>Sat, 10 Oct 2026 23:00:00 -0400</pubDate>
+      <pubDate>Sat, 17 Oct 2026 23:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/house-music-sessions/202610172300</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>House Music Sessions</title>
-      <link>https://www.wrir.org/show/house-music-sessions/</link>
+      <link>https://vault.wrir.org/shows/202610102300.HouseMusicSessions.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610102300.HouseMusicSessions.mp3"
+        length="172593799"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 23:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/house-music-sessions/202610102300</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>House Music Sessions</title>
+      <link>https://vault.wrir.org/shows/202610032300.HouseMusicSessions.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610032300.HouseMusicSessions.mp3"
         length="172608865"
         type="audio/mpeg"/>
       <pubDate>Sat, 03 Oct 2026 23:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/house-music-sessions/202610032300</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

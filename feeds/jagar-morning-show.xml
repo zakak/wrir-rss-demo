@@ -11,23 +11,37 @@
     <language>en-US</language>
     <item>
       <title>The Jagar Morning Show</title>
-      <link>https://www.wrir.org/show/jagar-morning-show/</link>
+      <link>https://vault.wrir.org/shows/202610180600.TheJagarMorningShow.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610110600.TheJagarMorningShow.mp3"
-        length="258851659"
+      <enclosure url="https://vault.wrir.org/shows/202610180600.TheJagarMorningShow.mp3"
+        length="258881323"
         type="audio/mpeg"/>
-      <pubDate>Sun, 11 Oct 2026 06:00:00 -0400</pubDate>
+      <pubDate>Sun, 18 Oct 2026 06:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/jagar-morning-show/202610180600</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>The Jagar Morning Show</title>
-      <link>https://www.wrir.org/show/jagar-morning-show/</link>
+      <link>https://vault.wrir.org/shows/202610110600.TheJagarMorningShow.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610110600.TheJagarMorningShow.mp3"
+        length="258851659"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 11 Oct 2026 06:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/jagar-morning-show/202610110600</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Jagar Morning Show</title>
+      <link>https://vault.wrir.org/shows/202610040600.TheJagarMorningShow.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610040600.TheJagarMorningShow.mp3"
         length="258870197"
         type="audio/mpeg"/>
       <pubDate>Sun, 04 Oct 2026 06:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/jagar-morning-show/202610040600</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

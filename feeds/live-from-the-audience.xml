@@ -11,23 +11,37 @@
     <language>en-US</language>
     <item>
       <title>Live from the Audience</title>
-      <link>https://www.wrir.org/show/live-from-the-audience/</link>
+      <link>https://vault.wrir.org/shows/202610170300.LivefromtheAudience.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610100300.LivefromtheAudience.mp3"
-        length="258848875"
+      <enclosure url="https://vault.wrir.org/shows/202610170300.LivefromtheAudience.mp3"
+        length="258853339"
         type="audio/mpeg"/>
-      <pubDate>Sat, 10 Oct 2026 03:00:00 -0400</pubDate>
+      <pubDate>Sat, 17 Oct 2026 03:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/live-from-the-audience/202610170300</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>Live from the Audience</title>
-      <link>https://www.wrir.org/show/live-from-the-audience/</link>
+      <link>https://vault.wrir.org/shows/202610100300.LivefromtheAudience.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610100300.LivefromtheAudience.mp3"
+        length="258848875"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 03:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/live-from-the-audience/202610100300</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Live from the Audience</title>
+      <link>https://vault.wrir.org/shows/202610030300.LivefromtheAudience.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610030300.LivefromtheAudience.mp3"
         length="248683297"
         type="audio/mpeg"/>
       <pubDate>Sat, 03 Oct 2026 03:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/live-from-the-audience/202610030300</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

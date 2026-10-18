@@ -11,23 +11,25 @@
     <language>en-US</language>
     <item>
       <title>Mercury Falls</title>
-      <link>https://www.wrir.org/show/mercury-falls/</link>
+      <link>https://vault.wrir.org/shows/202610142100.MercuryFalls.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610142100.MercuryFalls.mp3"
         length="172602205"
         type="audio/mpeg"/>
       <pubDate>Wed, 14 Oct 2026 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/mercury-falls/202610142100</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>Mercury Falls</title>
-      <link>https://www.wrir.org/show/mercury-falls/</link>
+      <link>https://vault.wrir.org/shows/202610072100.MercuryFalls.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610072100.MercuryFalls.mp3"
         length="172607843"
         type="audio/mpeg"/>
       <pubDate>Wed, 07 Oct 2026 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/mercury-falls/202610072100</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

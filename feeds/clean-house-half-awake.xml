@@ -11,23 +11,37 @@
     <language>en-US</language>
     <item>
       <title>Clean House / Half Awake</title>
-      <link>https://www.wrir.org/show/clean-house-half-awake/</link>
+      <link>https://vault.wrir.org/shows/202610170700.CleanHouseHalfAwake.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610100700.CleanHouseHalfAwake.mp3"
-        length="172573949"
+      <enclosure url="https://vault.wrir.org/shows/202610170700.CleanHouseHalfAwake.mp3"
+        length="172607847"
         type="audio/mpeg"/>
-      <pubDate>Sat, 10 Oct 2026 07:00:00 -0400</pubDate>
+      <pubDate>Sat, 17 Oct 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/clean-house-half-awake/202610170700</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>Clean House / Half Awake</title>
-      <link>https://www.wrir.org/show/clean-house-half-awake/</link>
+      <link>https://vault.wrir.org/shows/202610100700.CleanHouseHalfAwake.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610100700.CleanHouseHalfAwake.mp3"
+        length="172573949"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/clean-house-half-awake/202610100700</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Clean House / Half Awake</title>
+      <link>https://vault.wrir.org/shows/202610030700.CleanHouseHalfAwake.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610030700.CleanHouseHalfAwake.mp3"
         length="172581321"
         type="audio/mpeg"/>
       <pubDate>Sat, 03 Oct 2026 07:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/clean-house-half-awake/202610030700</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

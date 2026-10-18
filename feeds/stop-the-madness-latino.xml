@@ -11,23 +11,37 @@
     <language>en-US</language>
     <item>
       <title>Stop the Madness Latino</title>
-      <link>https://www.wrir.org/show/stop-the-madness-latino/</link>
+      <link>https://vault.wrir.org/shows/202610181300.StoptheMadnessLatino.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610111300.StoptheMadnessLatino.mp3"
-        length="172603351"
+      <enclosure url="https://vault.wrir.org/shows/202610181300.StoptheMadnessLatino.mp3"
+        length="172603547"
         type="audio/mpeg"/>
-      <pubDate>Sun, 11 Oct 2026 13:00:00 -0400</pubDate>
+      <pubDate>Sun, 18 Oct 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/stop-the-madness-latino/202610181300</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>Stop the Madness Latino</title>
-      <link>https://www.wrir.org/show/stop-the-madness-latino/</link>
+      <link>https://vault.wrir.org/shows/202610111300.StoptheMadnessLatino.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610111300.StoptheMadnessLatino.mp3"
+        length="172603351"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 11 Oct 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/stop-the-madness-latino/202610111300</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Stop the Madness Latino</title>
+      <link>https://vault.wrir.org/shows/202610041300.StoptheMadnessLatino.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610041300.StoptheMadnessLatino.mp3"
         length="172579935"
         type="audio/mpeg"/>
       <pubDate>Sun, 04 Oct 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/stop-the-madness-latino/202610041300</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

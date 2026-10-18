@@ -11,34 +11,25 @@
     <language>en-US</language>
     <item>
       <title>Richmond Business Babes</title>
-      <link>https://www.wrir.org/show/richmond-biz-babes/</link>
+      <link>https://vault.wrir.org/shows/202610151100.RichmondBusinessBabes.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610151100.RichmondBusinessBabes.mp3"
         length="86308803"
         type="audio/mpeg"/>
       <pubDate>Thu, 15 Oct 2026 11:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/richmond-biz-babes/202610151100</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>Richmond Business Babes</title>
-      <link>https://www.wrir.org/show/richmond-biz-babes/</link>
+      <link>https://vault.wrir.org/shows/202610081100.RichmondBusinessBabes.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610081100.RichmondBusinessBabes.mp3"
         length="86334353"
         type="audio/mpeg"/>
       <pubDate>Thu, 08 Oct 2026 11:00:00 -0400</pubDate>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-    </item>
-    <item>
-      <title>Richmond Business Babes</title>
-      <link>https://www.wrir.org/show/richmond-biz-babes/</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610011100.RichmondBusinessBabes.mp3"
-        length="86335451"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 01 Oct 2026 11:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/richmond-biz-babes/202610081100</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

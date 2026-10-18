@@ -11,23 +11,37 @@
     <language>en-US</language>
     <item>
       <title>End Of The Century</title>
-      <link>https://www.wrir.org/show/end-of-the-century/</link>
+      <link>https://vault.wrir.org/shows/202610171500.EndOfTheCentury.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610101500.EndOfTheCentury.mp3"
-        length="172603519"
+      <enclosure url="https://vault.wrir.org/shows/202610171500.EndOfTheCentury.mp3"
+        length="172604819"
         type="audio/mpeg"/>
-      <pubDate>Sat, 10 Oct 2026 15:00:00 -0400</pubDate>
+      <pubDate>Sat, 17 Oct 2026 15:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/end-of-the-century/202610171500</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>End Of The Century</title>
-      <link>https://www.wrir.org/show/end-of-the-century/</link>
+      <link>https://vault.wrir.org/shows/202610101500.EndOfTheCentury.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610101500.EndOfTheCentury.mp3"
+        length="172603519"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 15:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/end-of-the-century/202610101500</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>End Of The Century</title>
+      <link>https://vault.wrir.org/shows/202610031500.EndOfTheCentury.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610031500.EndOfTheCentury.mp3"
         length="172606475"
         type="audio/mpeg"/>
       <pubDate>Sat, 03 Oct 2026 15:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/end-of-the-century/202610031500</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

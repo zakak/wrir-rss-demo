@@ -11,23 +11,25 @@
     <language>en-US</language>
     <item>
       <title>Deutscher Jam</title>
-      <link>https://www.wrir.org/show/deutscher-jam/</link>
+      <link>https://vault.wrir.org/shows/202610161900.DeutscherJam.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610091900.DeutscherJam.mp3"
-        length="172607543"
+      <enclosure url="https://vault.wrir.org/shows/202610161900.DeutscherJam.mp3"
+        length="172605121"
         type="audio/mpeg"/>
-      <pubDate>Fri, 09 Oct 2026 19:00:00 -0400</pubDate>
+      <pubDate>Fri, 16 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/deutscher-jam/202610161900</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>Deutscher Jam</title>
-      <link>https://www.wrir.org/show/deutscher-jam/</link>
+      <link>https://vault.wrir.org/shows/202610091900.DeutscherJam.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610021900.DeutscherJam.mp3"
-        length="172579837"
+      <enclosure url="https://vault.wrir.org/shows/202610091900.DeutscherJam.mp3"
+        length="172607543"
         type="audio/mpeg"/>
-      <pubDate>Fri, 02 Oct 2026 19:00:00 -0400</pubDate>
+      <pubDate>Fri, 09 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/deutscher-jam/202610091900</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

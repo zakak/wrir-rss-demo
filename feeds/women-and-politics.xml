@@ -11,34 +11,25 @@
     <language>en-US</language>
     <item>
       <title>Women &amp;amp; Politics</title>
-      <link>https://www.wrir.org/show/women-and-politics/</link>
+      <link>https://vault.wrir.org/shows/202610151200.WomenPolitics.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610151200.WomenPolitics.mp3"
         length="86345349"
         type="audio/mpeg"/>
       <pubDate>Thu, 15 Oct 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/women-and-politics/202610151200</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>Women &amp;amp; Politics</title>
-      <link>https://www.wrir.org/show/women-and-politics/</link>
+      <link>https://vault.wrir.org/shows/202610081200.WomenPolitics.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610081200.WomenPolitics.mp3"
         length="86317085"
         type="audio/mpeg"/>
       <pubDate>Thu, 08 Oct 2026 12:00:00 -0400</pubDate>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-    </item>
-    <item>
-      <title>Women &amp;amp; Politics</title>
-      <link>https://www.wrir.org/show/women-and-politics/</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610011200.WomenPolitics.mp3"
-        length="86344157"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 01 Oct 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/women-and-politics/202610081200</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

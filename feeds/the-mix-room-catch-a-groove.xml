@@ -11,34 +11,25 @@
     <language>en-US</language>
     <item>
       <title>The Mix Room / Catch a Groove</title>
-      <link>https://www.wrir.org/show/the-mix-room-catch-a-groove/</link>
+      <link>https://vault.wrir.org/shows/202610152300.TheMixRoomCatchaGroove.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610152300.TheMixRoomCatchaGroove.mp3"
         length="172582659"
         type="audio/mpeg"/>
       <pubDate>Thu, 15 Oct 2026 23:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/the-mix-room-catch-a-groove/202610152300</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>The Mix Room / Catch a Groove</title>
-      <link>https://www.wrir.org/show/the-mix-room-catch-a-groove/</link>
+      <link>https://vault.wrir.org/shows/202610082300.TheMixRoomCatchaGroove.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610082300.TheMixRoomCatchaGroove.mp3"
         length="172598045"
         type="audio/mpeg"/>
       <pubDate>Thu, 08 Oct 2026 23:00:00 -0400</pubDate>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-    </item>
-    <item>
-      <title>The Mix Room / Catch a Groove</title>
-      <link>https://www.wrir.org/show/the-mix-room-catch-a-groove/</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610012300.TheMixRoomCatchaGroove.mp3"
-        length="172607729"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 01 Oct 2026 23:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/the-mix-room-catch-a-groove/202610082300</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

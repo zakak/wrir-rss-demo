@@ -11,23 +11,37 @@
     <language>en-US</language>
     <item>
       <title>The Lunar Orbit / Twilight Dispatch</title>
-      <link>https://www.wrir.org/show/the-lunar-orbit-twilight-dispatch/</link>
+      <link>https://vault.wrir.org/shows/202610162300.TheLunarOrbitTwilightDispatch.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610092300.TheLunarOrbitTwilightDispatch.mp3"
-        length="172596679"
+      <enclosure url="https://vault.wrir.org/shows/202610162300.TheLunarOrbitTwilightDispatch.mp3"
+        length="172594883"
         type="audio/mpeg"/>
-      <pubDate>Fri, 09 Oct 2026 23:00:00 -0400</pubDate>
+      <pubDate>Fri, 16 Oct 2026 23:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/the-lunar-orbit-twilight-dispatch/202610162300</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>The Lunar Orbit / Twilight Dispatch</title>
-      <link>https://www.wrir.org/show/the-lunar-orbit-twilight-dispatch/</link>
+      <link>https://vault.wrir.org/shows/202610092300.TheLunarOrbitTwilightDispatch.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610092300.TheLunarOrbitTwilightDispatch.mp3"
+        length="172596679"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 09 Oct 2026 23:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/the-lunar-orbit-twilight-dispatch/202610092300</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Lunar Orbit / Twilight Dispatch</title>
+      <link>https://vault.wrir.org/shows/202610022300.TheLunarOrbitTwilightDispatch.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610022300.TheLunarOrbitTwilightDispatch.mp3"
         length="172597917"
         type="audio/mpeg"/>
       <pubDate>Fri, 02 Oct 2026 23:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/the-lunar-orbit-twilight-dispatch/202610022300</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

@@ -5,29 +5,43 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
-    <title>WRIR 97.3 FM - Ambiance Congo</title>
+    <title>WRIR 97.3 FM - The Motherland Influence</title>
     <link>https://www.wrir.org</link>
-    <description>Richmond Independent Radio archive stream distribution feed for program: Ambiance Congo.</description>
+    <description>Richmond Independent Radio archive stream distribution feed for program: The Motherland Influence.</description>
     <language>en-US</language>
     <item>
-      <title>Ambiance Congo / The Other Black Music</title>
-      <link>https://www.wrir.org/show/ambiance-congo-the-other-black-music/</link>
+      <title>The Motherland Influence / The Other Black Music</title>
+      <link>https://vault.wrir.org/shows/202610181500.TheMotherlandInfluenceTheOtherBlackMusic.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610111500.AmbianceCongoTheOtherBlackMusic.mp3"
-        length="172601971"
+      <enclosure url="https://vault.wrir.org/shows/202610181500.TheMotherlandInfluenceTheOtherBlackMusic.mp3"
+        length="172599515"
         type="audio/mpeg"/>
-      <pubDate>Sun, 11 Oct 2026 15:00:00 -0400</pubDate>
+      <pubDate>Sun, 18 Oct 2026 15:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/ambiance-congo-the-other-black-music/202610181500</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>Ambiance Congo / The Other Black Music</title>
-      <link>https://www.wrir.org/show/ambiance-congo-the-other-black-music/</link>
+      <link>https://vault.wrir.org/shows/202610111500.AmbianceCongoTheOtherBlackMusic.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610111500.AmbianceCongoTheOtherBlackMusic.mp3"
+        length="172601971"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 11 Oct 2026 15:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/ambiance-congo-the-other-black-music/202610111500</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Ambiance Congo / The Other Black Music</title>
+      <link>https://vault.wrir.org/shows/202610041500.AmbianceCongoTheOtherBlackMusic.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610041500.AmbianceCongoTheOtherBlackMusic.mp3"
         length="172605143"
         type="audio/mpeg"/>
       <pubDate>Sun, 04 Oct 2026 15:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/ambiance-congo-the-other-black-music/202610041500</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
@@ -38,6 +52,6 @@
       <itunes:email>info@wrir.org</itunes:email>
     </itunes:owner>
     <itunes:author>WRIR-LP 97.3 FM</itunes:author>
-    <itunes:summary>Richmond Independent Radio archive stream distribution feed for program: Ambiance Congo.</itunes:summary>
+    <itunes:summary>Richmond Independent Radio archive stream distribution feed for program: The Motherland Influence.</itunes:summary>
   </channel>
 </rss>

@@ -11,23 +11,25 @@
     <language>en-US</language>
     <item>
       <title>Dog Germs / PND (punk’s not dead)</title>
-      <link>https://www.wrir.org/show/dog-germs/</link>
+      <link>https://vault.wrir.org/shows/202610132300.DogGermsPNDpunksnotdead.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610132300.DogGermsPNDpunksnotdead.mp3"
         length="128931289"
         type="audio/mpeg"/>
       <pubDate>Tue, 13 Oct 2026 23:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/dog-germs/202610132300</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>Dog Germs / PND (punk’s not dead)</title>
-      <link>https://www.wrir.org/show/dog-germs/</link>
+      <link>https://vault.wrir.org/shows/202610062300.DogGermsPNDpunksnotdead.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610062300.DogGermsPNDpunksnotdead.mp3"
         length="172617845"
         type="audio/mpeg"/>
       <pubDate>Tue, 06 Oct 2026 23:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/dog-germs/202610062300</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

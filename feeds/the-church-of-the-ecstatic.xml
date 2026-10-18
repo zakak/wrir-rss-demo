@@ -11,34 +11,25 @@
     <language>en-US</language>
     <item>
       <title>The Church of the Ecstatic</title>
-      <link>https://www.wrir.org/show/the-church-of-the-ecstatic/</link>
+      <link>https://vault.wrir.org/shows/202610142300.TheChurchoftheEcstatic.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610142300.TheChurchoftheEcstatic.mp3"
         length="172589477"
         type="audio/mpeg"/>
       <pubDate>Wed, 14 Oct 2026 23:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/the-church-of-the-ecstatic/202610142300</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>The Church of the Ecstatic</title>
-      <link>https://www.wrir.org/show/the-church-of-the-ecstatic/</link>
+      <link>https://vault.wrir.org/shows/202610072300.TheChurchoftheEcstatic.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610072300.TheChurchoftheEcstatic.mp3"
         length="160088669"
         type="audio/mpeg"/>
       <pubDate>Wed, 07 Oct 2026 23:00:00 -0400</pubDate>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-    </item>
-    <item>
-      <title>The Church of the Ecstatic</title>
-      <link>https://www.wrir.org/show/the-church-of-the-ecstatic/</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202609302300.TheChurchoftheEcstatic.mp3"
-        length="172613439"
-        type="audio/mpeg"/>
-      <pubDate>Wed, 30 Sep 2026 23:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/the-church-of-the-ecstatic/202610072300</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

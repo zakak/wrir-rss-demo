@@ -11,34 +11,25 @@
     <language>en-US</language>
     <item>
       <title>Higher Consciousness</title>
-      <link>https://www.wrir.org/show/higher-consciousness/</link>
+      <link>https://vault.wrir.org/shows/202610151500.HigherConsciousness.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610151500.HigherConsciousness.mp3"
         length="172605047"
         type="audio/mpeg"/>
       <pubDate>Thu, 15 Oct 2026 15:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/higher-consciousness/202610151500</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>Higher Consciousness</title>
-      <link>https://www.wrir.org/show/higher-consciousness/</link>
+      <link>https://vault.wrir.org/shows/202610081500.HigherConsciousness.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610081500.HigherConsciousness.mp3"
         length="172605113"
         type="audio/mpeg"/>
       <pubDate>Thu, 08 Oct 2026 15:00:00 -0400</pubDate>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-    </item>
-    <item>
-      <title>Higher Consciousness</title>
-      <link>https://www.wrir.org/show/higher-consciousness/</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610011500.HigherConsciousness.mp3"
-        length="172581171"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 01 Oct 2026 15:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/higher-consciousness/202610081500</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

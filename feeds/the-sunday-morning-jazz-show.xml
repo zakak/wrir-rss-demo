@@ -11,23 +11,37 @@
     <language>en-US</language>
     <item>
       <title>The Sunday Morning Jazz Show</title>
-      <link>https://www.wrir.org/show/the-sunday-morning-jazz-show/</link>
+      <link>https://vault.wrir.org/shows/202610180900.TheSundayMorningJazzShow.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610110900.TheSundayMorningJazzShow.mp3"
-        length="345143955"
+      <enclosure url="https://vault.wrir.org/shows/202610180900.TheSundayMorningJazzShow.mp3"
+        length="345124267"
         type="audio/mpeg"/>
-      <pubDate>Sun, 11 Oct 2026 09:00:00 -0400</pubDate>
+      <pubDate>Sun, 18 Oct 2026 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/the-sunday-morning-jazz-show/202610180900</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>The Sunday Morning Jazz Show</title>
-      <link>https://www.wrir.org/show/the-sunday-morning-jazz-show/</link>
+      <link>https://vault.wrir.org/shows/202610110900.TheSundayMorningJazzShow.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610110900.TheSundayMorningJazzShow.mp3"
+        length="345143955"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 11 Oct 2026 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/the-sunday-morning-jazz-show/202610110900</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>The Sunday Morning Jazz Show</title>
+      <link>https://vault.wrir.org/shows/202610040900.TheSundayMorningJazzShow.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610040900.TheSundayMorningJazzShow.mp3"
         length="345142461"
         type="audio/mpeg"/>
       <pubDate>Sun, 04 Oct 2026 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/the-sunday-morning-jazz-show/202610040900</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

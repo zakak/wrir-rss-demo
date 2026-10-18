@@ -11,23 +11,37 @@
     <language>en-US</language>
     <item>
       <title>River City Limits</title>
-      <link>https://www.wrir.org/show/river-city-limits/</link>
+      <link>https://vault.wrir.org/shows/202610171700.RiverCityLimits.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610101700.RiverCityLimits.mp3"
-        length="172603539"
+      <enclosure url="https://vault.wrir.org/shows/202610171700.RiverCityLimits.mp3"
+        length="172603587"
         type="audio/mpeg"/>
-      <pubDate>Sat, 10 Oct 2026 17:00:00 -0400</pubDate>
+      <pubDate>Sat, 17 Oct 2026 17:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/river-city-limits/202610171700</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>River City Limits</title>
-      <link>https://www.wrir.org/show/river-city-limits/</link>
+      <link>https://vault.wrir.org/shows/202610101700.RiverCityLimits.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610101700.RiverCityLimits.mp3"
+        length="172603539"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 17:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/river-city-limits/202610101700</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>River City Limits</title>
+      <link>https://vault.wrir.org/shows/202610031700.RiverCityLimits.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610031700.RiverCityLimits.mp3"
         length="172606643"
         type="audio/mpeg"/>
       <pubDate>Sat, 03 Oct 2026 17:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/river-city-limits/202610031700</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

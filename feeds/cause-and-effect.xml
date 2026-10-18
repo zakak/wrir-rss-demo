@@ -11,23 +11,37 @@
     <language>en-US</language>
     <item>
       <title>Cause and Effect</title>
-      <link>https://www.wrir.org/show/cause-and-effect/</link>
+      <link>https://vault.wrir.org/shows/202610171300.CauseandEffect.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610101300.CauseandEffect.mp3"
-        length="172581111"
+      <enclosure url="https://vault.wrir.org/shows/202610171300.CauseandEffect.mp3"
+        length="172603547"
         type="audio/mpeg"/>
-      <pubDate>Sat, 10 Oct 2026 13:00:00 -0400</pubDate>
+      <pubDate>Sat, 17 Oct 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/cause-and-effect/202610171300</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
     <item>
       <title>Cause and Effect</title>
-      <link>https://www.wrir.org/show/cause-and-effect/</link>
+      <link>https://vault.wrir.org/shows/202610101300.CauseandEffect.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610101300.CauseandEffect.mp3"
+        length="172581111"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 10 Oct 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/cause-and-effect/202610101300</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Cause and Effect</title>
+      <link>https://vault.wrir.org/shows/202610031300.CauseandEffect.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610031300.CauseandEffect.mp3"
         length="172605055"
         type="audio/mpeg"/>
       <pubDate>Sat, 03 Oct 2026 13:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/cause-and-effect/202610031300</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
