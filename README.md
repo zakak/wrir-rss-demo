@@ -1,8 +1,6 @@
-# WRIR RSS Feed Demo
+Copy a 'Podcast RSS' link below and paste into your podcast app. Learn [how to do that](https://www.thepitch.show/blog/how-to-manually-add-an-rss-feed-to-your-podcast-app-on-desktop-ios-android).
 
-Copy a 'Podcast RSS' link below and [paste into your podcast app](https://www.thepitch.show/blog/how-to-manually-add-an-rss-feed-to-your-podcast-app-on-desktop-ios-android)
-
-This is a demo site, not regularly updated.
+This is a demo site and not regularly updated. Listen to the latest on [wrir.org](https://www.wrir.org/).
 
 ## Shows
 
