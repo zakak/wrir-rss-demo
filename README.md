@@ -1,12 +1,12 @@
 # WRIR RSS Feed Demo
 
-This is a demo site, not regularly updated.
-
 Copy a 'Podcast RSS' link below and [paste into your podcast app](https://www.thepitch.show/blog/how-to-manually-add-an-rss-feed-to-your-podcast-app-on-desktop-ios-android)
 
-All Shows [Podcast RSS](feeds/main.xml)
+This is a demo site, not regularly updated.
 
-## Show Feeds
+## Shows
+
+All Shows [Podcast RSS](feeds/main.xml)
 
 * Alternative Milestones [Podcast RSS](feeds/alternative-milestones.xml)
 * The Best in Blues [Podcast RSS](feeds/the-best-in-blues.xml)
