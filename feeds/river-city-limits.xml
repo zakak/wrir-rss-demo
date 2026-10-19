@@ -35,19 +35,6 @@
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
       <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/07/RCL3_thunb-0x70.jpg"/>
     </item>
-    <item>
-      <title>River City Limits</title>
-      <link>https://vault.wrir.org/shows/202610031700.RiverCityLimits.mp3</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610031700.RiverCityLimits.mp3"
-        length="172606643"
-        type="audio/mpeg"/>
-      <pubDate>Sat, 03 Oct 2026 17:00:00 -0400</pubDate>
-      <guid isPermaLink="false">https://www.wrir.org/show/river-city-limits/202610031700</guid>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-      <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/07/RCL3_thunb-0x70.jpg"/>
-    </item>
     <itunes:category text="Music"/>
     <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/07/RCL3_thunb-0x70.jpg"/>
     <itunes:owner>

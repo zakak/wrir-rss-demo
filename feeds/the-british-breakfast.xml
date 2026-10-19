@@ -35,19 +35,6 @@
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
       <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/10/IMG_3450-150x150.jpeg"/>
     </item>
-    <item>
-      <title>The British Breakfast</title>
-      <link>https://vault.wrir.org/shows/202610030900.TheBritishBreakfast.mp3</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610030900.TheBritishBreakfast.mp3"
-        length="172603729"
-        type="audio/mpeg"/>
-      <pubDate>Sat, 03 Oct 2026 09:00:00 -0400</pubDate>
-      <guid isPermaLink="false">https://www.wrir.org/show/the-british-breakfast/202610030900</guid>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-      <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/10/IMG_3450-150x150.jpeg"/>
-    </item>
     <itunes:category text="Music"/>
     <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/10/IMG_3450-150x150.jpeg"/>
     <itunes:owner>

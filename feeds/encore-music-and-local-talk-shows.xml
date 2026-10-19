@@ -11,6 +11,19 @@
     <language>en-US</language>
     <item>
       <title>Encore Music and Local Talk Shows</title>
+      <link>https://vault.wrir.org/shows/202610190300.EncoreMusicandLocalTalkShows.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610190300.EncoreMusicandLocalTalkShows.mp3"
+        length="86308859"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 19 Oct 2026 03:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/encore-music-and-local-talk-shows/202610190300</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+      <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/05/76rwAbsAI7sARbsAZ7sAibsAq7sAzbsA77sBAbsRI7sRRbsRZ7sRibsRq7sRzbsR77sSAbsiI7siQrsAEBADs-150x150.gif"/>
+    </item>
+    <item>
+      <title>Encore Music and Local Talk Shows</title>
       <link>https://vault.wrir.org/shows/202610180300.EncoreMusicandLocalTalkShows.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610180300.EncoreMusicandLocalTalkShows.mp3"
@@ -200,32 +213,6 @@
         type="audio/mpeg"/>
       <pubDate>Sun, 04 Oct 2026 03:00:00 -0400</pubDate>
       <guid isPermaLink="false">https://www.wrir.org/show/encore-music-and-local-talk-shows/202610040300</guid>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-      <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/05/76rwAbsAI7sARbsAZ7sAibsAq7sAzbsA77sBAbsRI7sRRbsRZ7sRibsRq7sRzbsR77sSAbsiI7siQrsAEBADs-150x150.gif"/>
-    </item>
-    <item>
-      <title>Encore Music and Local Talk Shows</title>
-      <link>https://vault.wrir.org/shows/202610030600.EncoreMusicandLocalTalkShows.mp3</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610030600.EncoreMusicandLocalTalkShows.mp3"
-        length="86342301"
-        type="audio/mpeg"/>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 -0400</pubDate>
-      <guid isPermaLink="false">https://www.wrir.org/show/encore-music-and-local-talk-shows/202610030600</guid>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-      <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/05/76rwAbsAI7sARbsAZ7sAibsAq7sAzbsA77sBAbsRI7sRRbsRZ7sRibsRq7sRzbsR77sSAbsiI7siQrsAEBADs-150x150.gif"/>
-    </item>
-    <item>
-      <title>Encore Music and Local Talk Shows</title>
-      <link>https://vault.wrir.org/shows/202610030100.EncoreMusicandLocalTalkShows.mp3</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610030100.EncoreMusicandLocalTalkShows.mp3"
-        length="172602171"
-        type="audio/mpeg"/>
-      <pubDate>Sat, 03 Oct 2026 01:00:00 -0400</pubDate>
-      <guid isPermaLink="false">https://www.wrir.org/show/encore-music-and-local-talk-shows/202610030100</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
       <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/05/76rwAbsAI7sARbsAZ7sAibsAq7sAzbsA77sBAbsRI7sRRbsRZ7sRibsRq7sRzbsR77sSAbsiI7siQrsAEBADs-150x150.gif"/>

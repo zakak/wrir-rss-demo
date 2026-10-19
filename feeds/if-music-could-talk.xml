@@ -11,6 +11,18 @@
     <language>en-US</language>
     <item>
       <title>If Music Could Talk</title>
+      <link>https://vault.wrir.org/shows/202610181900.IfMusicCouldTalk.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610181900.IfMusicCouldTalk.mp3"
+        length="172603459"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 18 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/if-music-could-talk/202610181900</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>If Music Could Talk</title>
       <link>https://vault.wrir.org/shows/202610111900.IfMusicCouldTalk.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610111900.IfMusicCouldTalk.mp3"
