@@ -35,19 +35,6 @@
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
       <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/07/WRIR-LP_2009-70x0.png"/>
     </item>
-    <item>
-      <title>The Sunday Morning Jazz Show</title>
-      <link>https://vault.wrir.org/shows/202610040900.TheSundayMorningJazzShow.mp3</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610040900.TheSundayMorningJazzShow.mp3"
-        length="345142461"
-        type="audio/mpeg"/>
-      <pubDate>Sun, 04 Oct 2026 09:00:00 -0400</pubDate>
-      <guid isPermaLink="false">https://www.wrir.org/show/the-sunday-morning-jazz-show/202610040900</guid>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-      <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/07/WRIR-LP_2009-70x0.png"/>
-    </item>
     <itunes:category text="Music"/>
     <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/07/WRIR-LP_2009-70x0.png"/>
     <itunes:owner>
