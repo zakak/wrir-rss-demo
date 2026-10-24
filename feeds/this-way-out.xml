@@ -11,6 +11,19 @@
     <language>en-US</language>
     <item>
       <title>This Way Out</title>
+      <link>https://vault.wrir.org/shows/202610231030.ThisWayOut.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610231030.ThisWayOut.mp3"
+        length="43194377"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 23 Oct 2026 10:30:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/this-way-out/202610231030</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+      <itunes:image href="https://www.wrir.org/wp-content/uploads/2016/05/This-Way-Out-150x150.jpg"/>
+    </item>
+    <item>
+      <title>This Way Out</title>
       <link>https://vault.wrir.org/shows/202610161030.ThisWayOut.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610161030.ThisWayOut.mp3"

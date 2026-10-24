@@ -33,18 +33,6 @@
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
-    <item>
-      <title>Wednesday Breakfast Blend</title>
-      <link>https://vault.wrir.org/shows/202610070600.WednesdayBreakfastBlend.mp3</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610070600.WednesdayBreakfastBlend.mp3"
-        length="172612235"
-        type="audio/mpeg"/>
-      <pubDate>Wed, 07 Oct 2026 06:00:00 -0400</pubDate>
-      <guid isPermaLink="false">https://www.wrir.org/show/wednesday-morning-breakfast-blend/202610070600</guid>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-    </item>
     <itunes:category text="Music"/>
     <itunes:owner>
       <itunes:name>WRIR Community Radio</itunes:name>

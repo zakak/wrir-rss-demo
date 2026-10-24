@@ -11,6 +11,19 @@
     <language>en-US</language>
     <item>
       <title>SIFTER for the Ear</title>
+      <link>https://vault.wrir.org/shows/202610231130.SIFTERfortheEar.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610231130.SIFTERfortheEar.mp3"
+        length="43199065"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 23 Oct 2026 11:30:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/sifter-for-the-ear/202610231130</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+      <itunes:image href="https://www.wrir.org/wp-content/uploads/2022/03/SIFTER-for-the-ear-logo-1-150x150.jpg"/>
+    </item>
+    <item>
+      <title>SIFTER for the Ear</title>
       <link>https://vault.wrir.org/shows/202610161130.SIFTERfortheEar.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610161130.SIFTERfortheEar.mp3"

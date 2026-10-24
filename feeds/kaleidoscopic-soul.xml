@@ -33,18 +33,6 @@
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
-    <item>
-      <title>Kaleidoscope Soul / Interstellar Elevator</title>
-      <link>https://vault.wrir.org/shows/202610062100.KaleidoscopeSoulInterstellarElevator.mp3</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610062100.KaleidoscopeSoulInterstellarElevator.mp3"
-        length="172602095"
-        type="audio/mpeg"/>
-      <pubDate>Tue, 06 Oct 2026 21:00:00 -0400</pubDate>
-      <guid isPermaLink="false">https://www.wrir.org/show/kaleidoscopic-soul/202610062100</guid>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-    </item>
     <itunes:category text="Music"/>
     <itunes:owner>
       <itunes:name>WRIR Community Radio</itunes:name>

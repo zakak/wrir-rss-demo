@@ -11,6 +11,19 @@
     <language>en-US</language>
     <item>
       <title>Unicorn Power</title>
+      <link>https://vault.wrir.org/shows/202610230300.UnicornPower.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610230300.UnicornPower.mp3"
+        length="258877471"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 23 Oct 2026 03:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/unicorn-power/202610230300</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+      <itunes:image href="https://www.wrir.org/wp-content/uploads/2022/11/UP.WINTER-PROFILE-150x150.png"/>
+    </item>
+    <item>
+      <title>Unicorn Power</title>
       <link>https://vault.wrir.org/shows/202610160300.UnicornPower.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610160300.UnicornPower.mp3"

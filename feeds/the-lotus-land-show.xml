@@ -11,6 +11,19 @@
     <language>en-US</language>
     <item>
       <title>The Lotus Land Show</title>
+      <link>https://vault.wrir.org/shows/202610211700.TheLotusLandShow.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610211700.TheLotusLandShow.mp3"
+        length="172606219"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 21 Oct 2026 17:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/the-lotus-land-show/202610211700</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+      <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/07/1488776_10151934059655988_256674067_n-0x70.jpg"/>
+    </item>
+    <item>
+      <title>The Lotus Land Show</title>
       <link>https://vault.wrir.org/shows/202610141700.TheLotusLandShow.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610141700.TheLotusLandShow.mp3"
@@ -18,19 +31,6 @@
         type="audio/mpeg"/>
       <pubDate>Wed, 14 Oct 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">https://www.wrir.org/show/the-lotus-land-show/202610141700</guid>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-      <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/07/1488776_10151934059655988_256674067_n-0x70.jpg"/>
-    </item>
-    <item>
-      <title>The Lotus Land Show</title>
-      <link>https://vault.wrir.org/shows/202610071700.TheLotusLandShow.mp3</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610071700.TheLotusLandShow.mp3"
-        length="172604855"
-        type="audio/mpeg"/>
-      <pubDate>Wed, 07 Oct 2026 17:00:00 -0400</pubDate>
-      <guid isPermaLink="false">https://www.wrir.org/show/the-lotus-land-show/202610071700</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
       <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/07/1488776_10151934059655988_256674067_n-0x70.jpg"/>

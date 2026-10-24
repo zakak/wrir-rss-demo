@@ -11,6 +11,19 @@
     <language>en-US</language>
     <item>
       <title>Deutscher Jam</title>
+      <link>https://vault.wrir.org/shows/202610231900.DeutscherJam.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610231900.DeutscherJam.mp3"
+        length="172604759"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 23 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/deutscher-jam/202610231900</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+      <itunes:image href="https://www.wrir.org/wp-content/uploads/2020/07/german-flag1-150x150.png"/>
+    </item>
+    <item>
+      <title>Deutscher Jam</title>
       <link>https://vault.wrir.org/shows/202610161900.DeutscherJam.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610161900.DeutscherJam.mp3"

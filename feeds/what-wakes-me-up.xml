@@ -11,6 +11,18 @@
     <language>en-US</language>
     <item>
       <title>What Wakes Me Up/Moccasin Tracks</title>
+      <link>https://vault.wrir.org/shows/202610211200.WhatWakesMeUpMoccasinTracks.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610211200.WhatWakesMeUpMoccasinTracks.mp3"
+        length="86348379"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/what-wakes-me-up/202610211200</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>What Wakes Me Up/Moccasin Tracks</title>
       <link>https://vault.wrir.org/shows/202610141200.WhatWakesMeUpMoccasinTracks.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610141200.WhatWakesMeUpMoccasinTracks.mp3"
@@ -18,18 +30,6 @@
         type="audio/mpeg"/>
       <pubDate>Wed, 14 Oct 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">https://www.wrir.org/show/what-wakes-me-up/202610141200</guid>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-    </item>
-    <item>
-      <title>What Wakes Me Up/Moccasin Tracks</title>
-      <link>https://vault.wrir.org/shows/202610071200.WhatWakesMeUpMoccasinTracks.mp3</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610071200.WhatWakesMeUpMoccasinTracks.mp3"
-        length="86349815"
-        type="audio/mpeg"/>
-      <pubDate>Wed, 07 Oct 2026 12:00:00 -0400</pubDate>
-      <guid isPermaLink="false">https://www.wrir.org/show/what-wakes-me-up/202610071200</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

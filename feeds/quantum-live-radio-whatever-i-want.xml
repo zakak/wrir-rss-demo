@@ -11,6 +11,18 @@
     <language>en-US</language>
     <item>
       <title>Quantum Live Radio / Whatever I Want</title>
+      <link>https://vault.wrir.org/shows/202610221900.QuantumLiveRadioWhateverIWant.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610221900.QuantumLiveRadioWhateverIWant.mp3"
+        length="172606489"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 22 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/quantum-live-radio-whatever-i-want/202610221900</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Quantum Live Radio / Whatever I Want</title>
       <link>https://vault.wrir.org/shows/202610151900.QuantumLiveRadioWhateverIWant.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610151900.QuantumLiveRadioWhateverIWant.mp3"
@@ -18,18 +30,6 @@
         type="audio/mpeg"/>
       <pubDate>Thu, 15 Oct 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">https://www.wrir.org/show/quantum-live-radio-whatever-i-want/202610151900</guid>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-    </item>
-    <item>
-      <title>Quantum Live Radio / Whatever I Want</title>
-      <link>https://vault.wrir.org/shows/202610081900.QuantumLiveRadioWhateverIWant.mp3</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610081900.QuantumLiveRadioWhateverIWant.mp3"
-        length="172606553"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 08 Oct 2026 19:00:00 -0400</pubDate>
-      <guid isPermaLink="false">https://www.wrir.org/show/quantum-live-radio-whatever-i-want/202610081900</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>

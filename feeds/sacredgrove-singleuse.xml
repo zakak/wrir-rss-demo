@@ -33,18 +33,6 @@
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
     </item>
-    <item>
-      <title>Sacred Grove (1st &amp;amp; 3rd) / Single Use (2nd &amp;amp; 4th)</title>
-      <link>https://vault.wrir.org/shows/202610061500.SacredGrove1st3rdSingleUse2nd4th.mp3</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610061500.SacredGrove1st3rdSingleUse2nd4th.mp3"
-        length="172613429"
-        type="audio/mpeg"/>
-      <pubDate>Tue, 06 Oct 2026 15:00:00 -0400</pubDate>
-      <guid isPermaLink="false">https://www.wrir.org/show/sacredgrove-singleuse/202610061500</guid>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-    </item>
     <itunes:category text="Music"/>
     <itunes:owner>
       <itunes:name>WRIR Community Radio</itunes:name>
