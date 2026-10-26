@@ -11,6 +11,19 @@
     <language>en-US</language>
     <item>
       <title>End Of The Century</title>
+      <link>https://vault.wrir.org/shows/202610241500.EndOfTheCentury.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610241500.EndOfTheCentury.mp3"
+        length="172606449"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 24 Oct 2026 15:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/end-of-the-century/202610241500</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+      <itunes:image href="https://www.wrir.org/wp-content/uploads/2016/10/EotC-150x150.png"/>
+    </item>
+    <item>
+      <title>End Of The Century</title>
       <link>https://vault.wrir.org/shows/202610171500.EndOfTheCentury.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610171500.EndOfTheCentury.mp3"
@@ -18,19 +31,6 @@
         type="audio/mpeg"/>
       <pubDate>Sat, 17 Oct 2026 15:00:00 -0400</pubDate>
       <guid isPermaLink="false">https://www.wrir.org/show/end-of-the-century/202610171500</guid>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-      <itunes:image href="https://www.wrir.org/wp-content/uploads/2016/10/EotC-150x150.png"/>
-    </item>
-    <item>
-      <title>End Of The Century</title>
-      <link>https://vault.wrir.org/shows/202610101500.EndOfTheCentury.mp3</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610101500.EndOfTheCentury.mp3"
-        length="172603519"
-        type="audio/mpeg"/>
-      <pubDate>Sat, 10 Oct 2026 15:00:00 -0400</pubDate>
-      <guid isPermaLink="false">https://www.wrir.org/show/end-of-the-century/202610101500</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
       <itunes:image href="https://www.wrir.org/wp-content/uploads/2016/10/EotC-150x150.png"/>

@@ -11,6 +11,19 @@
     <language>en-US</language>
     <item>
       <title>FREQUENCY</title>
+      <link>https://vault.wrir.org/shows/202610242100.FREQUENCY.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610242100.FREQUENCY.mp3"
+        length="172606497"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 24 Oct 2026 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/frequency/202610242100</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+      <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/07/Frequency_Promo_bw-150x150.png"/>
+    </item>
+    <item>
+      <title>FREQUENCY</title>
       <link>https://vault.wrir.org/shows/202610210100.FREQUENCY.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610210100.FREQUENCY.mp3"
@@ -44,19 +57,6 @@
         type="audio/mpeg"/>
       <pubDate>Wed, 14 Oct 2026 01:00:00 -0400</pubDate>
       <guid isPermaLink="false">https://www.wrir.org/show/frequency/202610140100</guid>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-      <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/07/Frequency_Promo_bw-150x150.png"/>
-    </item>
-    <item>
-      <title>FREQUENCY</title>
-      <link>https://vault.wrir.org/shows/202610102100.FREQUENCY.mp3</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610102100.FREQUENCY.mp3"
-        length="172603579"
-        type="audio/mpeg"/>
-      <pubDate>Sat, 10 Oct 2026 21:00:00 -0400</pubDate>
-      <guid isPermaLink="false">https://www.wrir.org/show/frequency/202610102100</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
       <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/07/Frequency_Promo_bw-150x150.png"/>

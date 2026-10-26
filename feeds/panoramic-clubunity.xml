@@ -11,6 +11,19 @@
     <language>en-US</language>
     <item>
       <title>Panoramic / Club Unity</title>
+      <link>https://vault.wrir.org/shows/202610241900.PanoramicClubUnity.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610241900.PanoramicClubUnity.mp3"
+        length="172578159"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 24 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/panoramic-clubunity/202610241900</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+      <itunes:image href="https://www.wrir.org/wp-content/uploads/2021/10/artworks-YSWRloCNAQYiywgK-NEPp9g-t500x500-100x100.jpg"/>
+    </item>
+    <item>
+      <title>Panoramic / Club Unity</title>
       <link>https://vault.wrir.org/shows/202610171900.PanoramicClubUnity.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610171900.PanoramicClubUnity.mp3"
@@ -18,19 +31,6 @@
         type="audio/mpeg"/>
       <pubDate>Sat, 17 Oct 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">https://www.wrir.org/show/panoramic-clubunity/202610171900</guid>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-      <itunes:image href="https://www.wrir.org/wp-content/uploads/2021/10/artworks-YSWRloCNAQYiywgK-NEPp9g-t500x500-100x100.jpg"/>
-    </item>
-    <item>
-      <title>Panoramic / Club Unity</title>
-      <link>https://vault.wrir.org/shows/202610101900.PanoramicClubUnity.mp3</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610101900.PanoramicClubUnity.mp3"
-        length="172606063"
-        type="audio/mpeg"/>
-      <pubDate>Sat, 10 Oct 2026 19:00:00 -0400</pubDate>
-      <guid isPermaLink="false">https://www.wrir.org/show/panoramic-clubunity/202610101900</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
       <itunes:image href="https://www.wrir.org/wp-content/uploads/2021/10/artworks-YSWRloCNAQYiywgK-NEPp9g-t500x500-100x100.jpg"/>

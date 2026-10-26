@@ -11,6 +11,19 @@
     <language>en-US</language>
     <item>
       <title>Global A Go-Go</title>
+      <link>https://vault.wrir.org/shows/202610260100.GlobalAGoGo.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610260100.GlobalAGoGo.mp3"
+        length="172578503"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 26 Oct 2026 01:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/global-a-go-go/202610260100</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+      <itunes:image href="https://www.wrir.org/wp-content/uploads/2015/07/Bill-at-Burkina-border-150x150.jpg"/>
+    </item>
+    <item>
+      <title>Global A Go-Go</title>
       <link>https://vault.wrir.org/shows/202610190100.GlobalAGoGo.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610190100.GlobalAGoGo.mp3"
