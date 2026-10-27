@@ -11,6 +11,19 @@
     <language>en-US</language>
     <item>
       <title>Mr. Dad’s Storytime</title>
+      <link>https://vault.wrir.org/shows/202610271100.MrDadsStorytime.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610271100.MrDadsStorytime.mp3"
+        length="86310443"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 27 Oct 2026 11:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/mr-dads-storytime/202610271100</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+      <itunes:image href="https://www.wrir.org/wp-content/uploads/2021/02/BA3F4396-AD2F-4D4D-925C-FB001DA5164D_4_5005_c-150x150.jpeg"/>
+    </item>
+    <item>
+      <title>Mr. Dad’s Storytime</title>
       <link>https://vault.wrir.org/shows/202610201100.MrDadsStorytime.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610201100.MrDadsStorytime.mp3"

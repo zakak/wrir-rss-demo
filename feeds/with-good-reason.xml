@@ -11,6 +11,19 @@
     <language>en-US</language>
     <item>
       <title>With Good Reason</title>
+      <link>https://vault.wrir.org/shows/202610270900.WithGoodReason.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610270900.WithGoodReason.mp3"
+        length="86332823"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 27 Oct 2026 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/with-good-reason/202610270900</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+      <itunes:image href="https://www.wrir.org/wp-content/uploads/2019/12/16E88038-B31C-448C-870A-F8E8430E7AB1-150x150.jpeg"/>
+    </item>
+    <item>
+      <title>With Good Reason</title>
       <link>https://vault.wrir.org/shows/202610200900.WithGoodReason.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610200900.WithGoodReason.mp3"
