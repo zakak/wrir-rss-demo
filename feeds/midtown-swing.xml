@@ -11,6 +11,19 @@
     <language>en-US</language>
     <item>
       <title>Midtown Swing</title>
+      <link>https://vault.wrir.org/shows/202610281900.MidtownSwing.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610281900.MidtownSwing.mp3"
+        length="172603525"
+        type="audio/mpeg"/>
+      <pubDate>Wed, 28 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/midtown-swing/202610281900</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+      <itunes:image href="https://www.wrir.org/wp-content/uploads/2021/05/dj-150x150.jpg"/>
+    </item>
+    <item>
+      <title>Midtown Swing</title>
       <link>https://vault.wrir.org/shows/202610211900.MidtownSwing.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610211900.MidtownSwing.mp3"

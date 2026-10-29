@@ -11,6 +11,19 @@
     <language>en-US</language>
     <item>
       <title>Handful Of Brains</title>
+      <link>https://vault.wrir.org/shows/202610271900.HandfulOfBrains.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202610271900.HandfulOfBrains.mp3"
+        length="172603631"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 27 Oct 2026 19:00:00 -0400</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/handful-of-brains/202610271900</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+      <itunes:image href="https://www.wrir.org/wp-content/uploads/2019/03/handful-of-brains-150x150.jpg"/>
+    </item>
+    <item>
+      <title>Handful Of Brains</title>
       <link>https://vault.wrir.org/shows/202610201900.HandfulOfBrains.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610201900.HandfulOfBrains.mp3"
@@ -18,19 +31,6 @@
         type="audio/mpeg"/>
       <pubDate>Tue, 20 Oct 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">https://www.wrir.org/show/handful-of-brains/202610201900</guid>
-      <itunes:author>WRIR-LP</itunes:author>
-      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
-      <itunes:image href="https://www.wrir.org/wp-content/uploads/2019/03/handful-of-brains-150x150.jpg"/>
-    </item>
-    <item>
-      <title>Handful Of Brains</title>
-      <link>https://vault.wrir.org/shows/202610131900.HandfulOfBrains.mp3</link>
-      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
-      <enclosure url="https://vault.wrir.org/shows/202610131900.HandfulOfBrains.mp3"
-        length="172600713"
-        type="audio/mpeg"/>
-      <pubDate>Tue, 13 Oct 2026 19:00:00 -0400</pubDate>
-      <guid isPermaLink="false">https://www.wrir.org/show/handful-of-brains/202610131900</guid>
       <itunes:author>WRIR-LP</itunes:author>
       <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
       <itunes:image href="https://www.wrir.org/wp-content/uploads/2019/03/handful-of-brains-150x150.jpg"/>
