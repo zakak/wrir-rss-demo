@@ -11,6 +11,18 @@
     <language>en-US</language>
     <item>
       <title>Just Cause / Double Dream</title>
+      <link>https://vault.wrir.org/shows/202611012300.JustCauseDoubleDream.mp3</link>
+      <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
+      <enclosure url="https://vault.wrir.org/shows/202611012300.JustCauseDoubleDream.mp3"
+        length="172586937"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 01 Nov 2026 23:00:00 -0500</pubDate>
+      <guid isPermaLink="false">https://www.wrir.org/show/just-cause-double-dream/202611012300</guid>
+      <itunes:author>WRIR-LP</itunes:author>
+      <itunes:summary>Broadcast archive recorded live on WRIR 97.3 FM.</itunes:summary>
+    </item>
+    <item>
+      <title>Just Cause / Double Dream</title>
       <link>https://vault.wrir.org/shows/202610252300.JustCauseDoubleDream.mp3</link>
       <description>Broadcast archive recorded live on WRIR 97.3 FM.</description>
       <enclosure url="https://vault.wrir.org/shows/202610252300.JustCauseDoubleDream.mp3"
